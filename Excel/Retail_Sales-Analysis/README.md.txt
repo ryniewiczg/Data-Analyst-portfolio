@@ -1,69 +1,72 @@
-# Retail Sales Analysis – Excel Project
+# 📊 Retail Sales Analysis – Excel Dashboard Project
 
-## Project Overview
-This project is a retail sales analysis dashboard created in Microsoft Excel.  
-The goal of this project is to explore sales data, analyze trends, and visualize key metrics to provide actionable insights for business decision-making.
-
-The dataset used is based on a sample retail dataset (`Sample-Superstore.xlsx`) containing sales transactions with the following columns:
-- OrderID
-- OrderDate
-- Region
-- Category
-- Product
-- Sales
-- Quantity
-- Discount
-- Profit
+A Microsoft Excel dashboard analyzing retail sales performance, trends, and key business metrics.  
+This project demonstrates data cleaning, PivotTable analytics, dashboard design, and insight generation using Excel.
 
 ---
 
-## Key Objectives
-1. **Data Cleaning**
-   - Removed duplicates
-   - Checked for missing values
-   - Standardized date and currency formats
+## 🧩 Project Overview
+The **Retail Sales Analysis – Excel Project** explores sales data from the retail industry to identify trends, top products, and regional performance.  
+The dataset (`Sample-Superstore.xlsx`) includes transactional sales information such as dates, regions, categories, and profit.
 
-2. **Data Analysis**
-   - PivotTables for sales by region, category, and product
-   - Monthly sales trends
-   - Top products analysis
+This Excel dashboard consists of three main analytical areas:
 
-3. **Dashboard Creation**
-   - KPI Cards: Total Sales, Total Profit, Number of Orders, Average Profit
-   - Trend Line chart for monthly sales
-   - Sales by Region chart
-   - Top 10 products – horizontal bar chart
-   - Interactive slicers for Region, Category, and Year
+1. **Sales Trends** – monthly performance and seasonality  
+2. **Regional Insights** – geographic breakdown of sales  
+3. **Product Analysis** – top categories and top 10 best‑selling products  
 
 ---
 
-## Files Included
-- `data/Sample -Superstore.xlsx` – raw data  
-- `data/Retail_sales_analysis.xlsx` – cleaned raw data
-- `visuals/sales_by_region.png` – sales by region chart  
-- `visuals/profit_by_category.png` – profit by category chart  
-- `visuals/monthly_sales_trend.png` – monthly sales trend chart  
+## 🖼️ Dashboard Visuals
+
+### 📌 1. Dashboard Main Page  
+!(visuals/Dashboard.png)
 
 ---
 
-## Insights & Findings
-- The **West region** has the highest total sales.  
-- Furniture and Technology categories generate the largest profits.  
-- Sales show a seasonal trend with peaks during the holiday months.  
-- Top 10 products account for a significant portion of overall revenue.
+## 🚀 Features & Dashboard Components
+✔️ KPI cards (Total Sales, Total Profit, Orders Count, Avg Profit)  
+✔️ Monthly sales trend line chart  
+✔️ Sales by region bar/column chart  
+✔️ Top 10 products chart  
+✔️ Category and subcategory profit analysis  
+✔️ Interactive slicers (Region, Category, Year)  
+✔️ Fully dynamic PivotTable‑based dashboard  
 
 ---
 
-## Tools & Skills Demonstrated
-- Microsoft Excel: PivotTables, PivotCharts, Slicers  
-- Data Cleaning & Formatting  
-- KPI creation and dashboard design  
-- Basic business insights extraction  
+## 🧠 Key Business Insights
+- The **West region** has the strongest overall sales.  
+- **Furniture** and **Technology** deliver the highest profit margins.  
+- Noticeable seasonality with strong spikes during holiday months.  
+- Top 10 products form a major share of total revenue.
 
 ---
 
-## Next Steps
-This project can be extended by:
-- Creating similar dashboards in Power BI and Tableau for interactive visualization  
-- Adding predictive analytics using Excel Forecast or Python  
-- Incorporating additional datasets for deeper insights, such as customer segmentation or marketing campaigns
+## 🛠️ Tools & Skills Demonstrated
+- **Microsoft Excel**: PivotTables, PivotCharts, Slicers  
+- Data cleaning & formatting  
+- Dashboard design & KPI creation  
+- Business insights & storytelling with data  
+
+---
+
+## 📁 Repository Structure
+- `data/Sample-Superstore.xlsx` – raw dataset  
+- `data/Retail_sales_analysis.xlsx` – cleaned dataset  
+- `/visuals` – dashboard screenshot 
+- `README.md` – project documentation  
+
+---
+
+## 📈 Next Steps
+- Rebuild dashboard in **Power BI** or **Tableau** for deeper interactivity  
+- Add time‑series forecasting using Excel or Python  
+- Integrate customer‑level data for segmentation insights  
+
+---
+
+## 👨‍💻 Author
+Dashboard developed by **Grzegorz Ryniewicz**  
+🔗 LinkedIn: https://www.linkedin.com/in/grzegorz-ryniewicz-922130125/  
+🔗 GitHub: https://github.com/rynniewiczg
