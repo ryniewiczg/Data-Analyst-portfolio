@@ -1,68 +1,76 @@
-# Retail Sales Analysis – Power BI Project
+# 📊 Retail Sales Analysis – Sales, Profit & Regional Insights Dashboard
 
-## Project Overview
-This Power BI dashboard analyzes retail sales data to uncover insights about sales performance, profitability, and regional trends.  
-The dataset (`superstore.xlsx`) contains transactional data for products, categories, and regions.
-
-The purpose of this project is to demonstrate data modeling, KPI creation, and interactive visualization skills in Power BI.
+A Power BI dashboard analyzing retail sales performance, profitability, customer behavior, and regional trends.
 
 ---
 
-## Key Objectives
-1. **Data Preparation**
-   - Imported Excel data (`superstore.xlsx`) into Power BI
-   - Cleaned and formatted data using Power Query
-   - Created calculated columns and measures:
-     - `Profit Margin = Profit / Sales`
-     - `Avg Profit = AVERAGE(Profit)`
-     - `Total Sales = SUM(Sales)`
-     - `Total Profit = SUM(Profit)`
+## 🧩 Project Overview
+The **Retail Sales Analysis** dashboard provides a clear, interactive view of sales, profit, and product performance across multiple regions and categories.  
+It is based on the *Superstore* dataset (`superstore.xlsx`) and demonstrates KPI creation, data modeling, and storytelling with data.
 
-2. **Data Modeling**
-   - Verified relationships and data types
-   - Ensured time intelligence with proper Date hierarchy
+The report includes three main analytics areas:
 
-3. **Dashboard Design**
-   - KPI Cards: Total Sales, Total Profit, Orders Count, Avg Profit
-   - Trend Line Chart: Monthly Sales Trend
-   - Map Chart: Sales by Region
-   - Bar Chart: Top 10 Products by Sales
-   - Interactive Filters (Slicers): Region, Category, Year
+1. **Sales & Profit Overview** – key KPIs and time-based trends  
+2. **Regional Breakdown** – geographic distribution of sales  
+3. **Product Performance** – top-selling products and categories  
 
 ---
 
-## Files Included
-- `retail_sales.pbix` – Power BI project file  
-- `visuals/dashboard_overview.png` – main dashboard screenshot  
-- `visuals/sales_by_region.png` – map visualization  
-- `visuals/top_products.png` – Top 10 products bar chart  
+## 🖼️ Dashboard Screenshots
+
+### 📌 1. Dashboard Overview  
+![Dashboard Overview](visuals/Dashboard_Page1.png)
 
 ---
 
-## Insights & Findings
-- The **West region** drives the highest total sales and profit.  
-- The **Technology** category contributes most to profit growth.  
-- Clear seasonality is visible, with peaks in Q4 months.  
-- Top 10 products contribute roughly 40–50% of overall sales.  
+## 🚀 Dashboard Features
+✔️ KPI cards (Sales, Profit, Orders, Avg Profit)  
+✔️ Monthly sales trend with time intelligence  
+✔️ Interactive map: Sales by Region  
+✔️ Top 10 products analysis  
+✔️ Category & sub-category insights  
+✔️ Dynamic slicers for fast filtering  
+✔️ Clean layout using Power BI best practices  
 
 ---
 
-## Tools & Skills Demonstrated
-- Power BI Desktop  
-- Power Query for data cleaning and transformation  
-- DAX for calculated measures  
-- Interactive dashboard design and layout optimization  
-- Business insight generation from visualization  
+## 🧠 Key Business Insights
+- The **West region** achieves the highest sales and profit.  
+- The **Technology** category drives the strongest profit growth.  
+- Sales show seasonal peaks in **Q4 months**.  
+- The top 10 products generate **40–50%** of total revenue.  
 
 ---
 
-## Next Steps
-- Publish dashboard to Power BI Service for online access  
-- Connect to live data source (SQL or API) for dynamic updates  
-- Add drill-through and bookmarks for deeper interactivity  
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**  
+- **Power Query** for data cleaning  
+- **DAX** for KPI calculations:  
+  - `Profit Margin = Profit / Sales`  
+  - `Avg Profit = AVERAGE(Profit)`  
+  - `Total Sales = SUM(Sales)`  
+  - `Total Profit = SUM(Profit)`  
+- Data modeling and relationship management  
+- Interactive visualization techniques  
 
 ---
 
-## Author
-Your Name – [GitHub Profile](https://github.com/YourUsername)  
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YourProfile)
+## 📁 Repository Structure
+- `Retail_sales_analysis.xlsx` – raw dataset  
+- `Retail_sales.PowerBI.pbix` – Power BI report  
+- `/visuals` – dashboard screenshot
+- `README.md` – project documentation  
+
+---
+
+## 📈 Next Steps
+- Publish dashboard to **Power BI Service**  
+- Connect to a **SQL** or **API** live data source  
+- Add **drill-through**, **bookmarks**, and **scenario analysis**  
+
+---
+
+## 👨‍💻 Author
+Dashboard developed by **Grzegorz Ryniewicz**  
+🔗 LinkedIn: https://www.linkedin.com/in/grzegorz-ryniewicz-922130125/  
+🔗 GitHub: https://github.com/rynniewiczg
