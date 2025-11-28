@@ -76,12 +76,14 @@ A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Fl
 ➡️ Project folder: `PowerBI/KrakenKoffee_Infographic``
 
 
+
 ## 📂 Excel Projects — Overview
 
 ### 1️⃣ 📊 Retail Sales Analysis – Excel Project
 
 Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
 ➡️ Project folder: Excel/Retail_Sales-Analysis
+
 
 
 ## 📂 Statistics Projects — Overview
