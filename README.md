@@ -23,12 +23,6 @@ Each project includes datasets, visuals, documentation, and the final analytical
 Data-Analyst-Portfolio
 │
 ├── PowerBI
-│ ├── KrakenKoffee_Infographic
-│ │ ├── data/
-│ │ ├── visuals/
-│ │ ├── KrakenKofee_Infographic.pbix
-│ │ └── README.md
-│ │
 │ ├── MarketMindz_Market Research
 │ │ ├── data/
 │ │ ├── visuals/
@@ -40,14 +34,19 @@ Data-Analyst-Portfolio
 │ │ ├── visuals/
 │ │ ├── Retail_Sales.pbix
 │ │ └── README.md
-│
-└── README.md ← you're here
 │ │
-│ ├── Retail_Sales_Analysis
+│ ├── KrakenKoffee_Infographic
 │ │ ├── data/
 │ │ ├── visuals/
-│ │ ├── Retail_Sales.pbix
+│ │ ├── KrakenKofee_Infographic.pbix
 │ │ └── README.md
+│
+├── Excel
+│ └── Retail_Sales-Analysis
+│ ├── data/
+│ ├── visuals/
+│ ├── Retail_Sales.xlsx
+│ └── README.md
 │
 └── README.md ← you're here
 ```
@@ -75,6 +74,15 @@ Provides insights into product categories, customer segments, and organizational
 
 A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
 ➡️ Project folder: `PowerBI/KrakenKoffee_Infographic``
+
+
+## 📂 Excel Projects — Overview
+
+### 1️⃣ 📊 Retail Sales Analysis – Excel Project
+
+Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
+➡️ Project folder: Excel/Retail_Sales-Analysis
+
 
 
 ## 📈 Upcoming Projects
