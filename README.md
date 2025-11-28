@@ -71,7 +71,7 @@ Provides insights into product categories, customer segments, and organizational
 
 ---
 
-3️⃣ Kraken Koffee – 2023 Half-Time Sales Review Dashboard
+### 3️⃣ Kraken Koffee – 2023 Half-Time Sales Review Dashboard**
 
 A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
 ➡️ Project folder: `PowerBI/KrakenKoffee_Infographic``
