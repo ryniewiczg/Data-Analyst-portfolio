@@ -84,6 +84,11 @@ Excel-based analytical model exploring retail sales, KPIs, and product insights 
 ➡️ Project folder: Excel/Retail_Sales-Analysis
 
 
+📈 Statistics Projects — Overview
+1️⃣ Real Estate Market Statistics – Excel Project
+
+Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, range, standard deviation, and full descriptive analytics.
+➜ Project folder: Excel/Real_Estate_Statistics
 
 ## 📈 Upcoming Projects
 More projects will be added soon, including:
