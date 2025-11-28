@@ -23,22 +23,37 @@ Each project includes datasets, visuals, documentation, and the final analytical
 Data-Analyst-Portfolio
 │
 ├── PowerBI
-│   ├── MarketMindz_Market Research
-│   │   ├── data/
-│   │   ├── visuals/
-│   │   ├── MarketMindz.pbix
-│   │   └── README.md
-│   │
-│   ├── Retail_Sales_Analysis
-│   │   ├── data/
-│   │   ├── visuals/
-│   │   ├── Retail_Sales.pbix
-│   │   └── README.md
+│ ├── KrakenKoffee_Infographic
+│ │ ├── data/
+│ │ ├── visuals/
+│ │ ├── KrakenKofee_Infographic.pbix
+│ │ └── README.md
+│ │
+│ ├── MarketMindz_Market Research
+│ │ ├── data/
+│ │ ├── visuals/
+│ │ ├── MarketMindz.pbix
+│ │ └── README.md
+│ │
+│ ├── Retail_Sales_Analysis
+│ │ ├── data/
+│ │ ├── visuals/
+│ │ ├── Retail_Sales.pbix
+│ │ └── README.md
 │
-└── README.md   ← you're here
+└── README.md ← you're here
+│ │
+│ ├── Retail_Sales_Analysis
+│ │ ├── data/
+│ │ ├── visuals/
+│ │ ├── Retail_Sales.pbix
+│ │ └── README.md
+│
+└── README.md ← you're here
 ```
 
 ---
+
 
 ## 📂 Power BI Projects — Overview
 
@@ -55,6 +70,12 @@ Provides insights into product categories, customer segments, and organizational
 ➡️ *Project folder:* `PowerBI/Retail_Sales_Analysis`
 
 ---
+
+3️⃣ Kraken Koffee – 2023 Half-Time Sales Review Dashboard
+
+A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
+➡️ Project folder: `PowerBI/KrakenKoffee_Infographic``
+
 
 ## 📈 Upcoming Projects
 More projects will be added soon, including:
