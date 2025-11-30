@@ -1,8 +1,8 @@
-📊 Real Estate Analysis – Excel Project
+Real Estate Analysis – Excel Project
 
 A complete Excel-based analysis of residential property data, focusing on pricing patterns, distribution, outliers, district-level variation, and property characteristics.
 
-🧩 Project Overview
+Project Overview
 This project provides statistical and visual analysis of a real estate dataset stored in the CLEAN DATA worksheet (Table1).  
 Objectives:
 1. Price differences across property characteristics  
@@ -12,7 +12,7 @@ Objectives:
 5. District-level price-per-sqm patterns  
 6. Summary statistics
 
-📁 Dataset Structure (Table1)
+Dataset Structure (Table1)
 Key Columns:
 - Total_Price_PLN  
 - Has_Garage  
@@ -22,23 +22,23 @@ Key Columns:
 - Location  
 - Price_per_sqm  
 
-🚀 Part 1 – General Analysis
+ Part 1 – General Analysis
 
-📌 1. Garage Impact on Price
+ 1. Garage Impact on Price
 =AVERAGEIF(Table1[Has_Garage], TRUE, Table1[Total_Price_PLN])
 =AVERAGEIF(Table1[Has_Garage], FALSE, Table1[Total_Price_PLN])
 
-📌 2. Average Price by Property Type
+ 2. Average Price by Property Type
 =AVERAGEIF(Table1[Type], "Apartment", Table1[Total_Price_PLN])
 =AVERAGEIF(Table1[Type], "House", Table1[Total_Price_PLN])
 =AVERAGEIF(Table1[Type], "Studio", Table1[Total_Price_PLN])
 
-📌 3. Most Frequent Property Condition
+ 3. Most Frequent Property Condition
 =COUNTIF(Table1[Condition], "New")
 =COUNTIF(Table1[Condition], "Good")
 =COUNTIF(Table1[Condition], "Needs Renovation")
 
-📌 4. Average Maintenance Cost
+ 4. Average Maintenance Cost
 Overall:
 =AVERAGE(Table1[Monthly_Utilities_PLN])
 By Type:
@@ -46,10 +46,10 @@ By Type:
 =AVERAGEIF(Table1[Type], "House", Table1[Monthly_Utilities_PLN])
 =AVERAGEIF(Table1[Type], "Studio", Table1[Monthly_Utilities_PLN])
 
-🔍 Part 2 – Group Comparison
+ Part 2 – Group Comparison
 =AVERAGEIF(Table1[Type], "<Type>", Table1[Total_Price_PLN])
 
-📉 Price Distribution – Total_Price_PLN
+Price Distribution – Total_Price_PLN
 
 Range:
 =MAX(Table1[Total_Price_PLN]) - MIN(Table1[Total_Price_PLN])
@@ -66,30 +66,30 @@ Outliers:
 Lower = Q1 - 1.5*IQR
 Upper = Q3 + 1.5*IQR
 
-📈 Histogram
+Histogram
 Select Table1[Total_Price_PLN] → Insert → Statistical Chart → Histogram
 
-📊 Bar Chart – Property Type
+Bar Chart – Property Type
 =COUNTIF(Table1[Type], "Apartment")
 =COUNTIF(Table1[Type], "House")
 =COUNTIF(Table1[Type], "Studio")
 
-🏙️ District-Level Price per m²
+District-Level Price per m²
 =AVERAGEIF(Table1[Location], "A", Table1[Price_per_sqm])
 =MEDIAN(IF(Table1[Location]="A", Table1[Price_per_sqm]))
 =MODE.SNGL(IF(Table1[Location]="A", Table1[Price_per_sqm]))
 (Repeat for B, C, D)
 
-📐 Statistical Measures Used
+Statistical Measures Used
 Mean, Median, Mode, Min, Max, Range, Standard Deviation, Variance, Quartiles, IQR, Outliers.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 - Microsoft Excel  
 - Statistical functions  
 - Visualizations (histogram, bar chart)  
 - Excel Tables  
 
-🧠 Summary
+Summary
 This project reveals:
 - High price dispersion  
 - Differences between property types  
