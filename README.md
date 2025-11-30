@@ -29,31 +29,31 @@ Includes datasets, visuals, full documentation, and the final .pbix report.
 
 ---
 
-### 2️**Retail Sales Analysis – Power BI Project**  
+### 2️. **Retail Sales Analysis**  
 Dashboard exploring retail sales performance, profitability, and regional trends based on `superstore.xlsx`.  
 Provides insights into product categories, customer segments, and organizational KPIs.  
 *Project folder:* `PowerBI/Retail_Sales_Analysis`
 
 ---
 
-### Kraken Koffee – 2023 Half-Time Sales Review Dashboard
+### 3. Kraken Koffee – 2023 Half-Time Sales Review Dashboard
 
 A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
 Project folder: `PowerBI/KrakenKoffee_Infographic``
 
 
 
-## 📂 Microsoft Excel Projects — Overview
+## Microsoft Excel Projects — Overview
 
-### 1️ Retail Sales Analysis – Excel Project
+### 1️. Retail Sales Analysis
 
 Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
 Project folder: Excel/Retail_Sales-Analysis
 
 
 
-## 📂 Statistics Projects — Overview
-### Real Estate Market Statistics – Excel Project
+## Statistics Projects — Overview
+### 1. Real Estate Market Analysis - Statistical Measures
 
 Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, range, standard deviation, and full descriptive analytics.
 ➜ Project folder: Excel/Real_Estate_Statistics
