@@ -19,7 +19,7 @@ Each project includes datasets, visuals, documentation, and the final analytical
 
 
 
-## <span style="color:#FFD700">Microsoft Power BI Projects — Overview</span>
+<span style="color:#FFD700">Microsoft Power BI Projects — Overview</span>
 
 ### 1️. **MarketMindz – Market Research Dashboard**  
 Interactive Power BI dashboard analyzing customer trends, product performance, and market patterns.  
