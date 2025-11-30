@@ -1,7 +1,7 @@
-# 📊 MarketMindz – Marketing & Customer Analytics Dashboard
+# MarketMindz – Marketing & Customer Analytics Dashboard
 A comprehensive Power BI dashboard analyzing marketing campaign performance, customer purchasing behavior, and key drivers influencing sales.
 
-## 🧩 Project Overview
+## Project Overview
 The **MarketMindz** dashboard was designed to provide a complete view of campaign effectiveness, customer preferences, and demographic composition. It includes key sales metrics, segment analyses, and an AI-powered *Key Influencers* model.
 
 The project consists of three main sections:
@@ -12,31 +12,31 @@ The project consists of three main sections:
 
 ---
 
-## 🖼️ Dashboard Screenshots
+## Dashboard Screenshots
 
-### 📌 1. Campaign Performance
+### 1. Campaign Performance
 ![Campaign Performance](Dashboard_Page_1.png)
 
-### 📌 2. Buyer Composition
+### 2. Buyer Composition
 ![Buyer Composition](Dashboard_Page_2.png)
 
-### 📌 3. Purchase Drivers
+### 3. Purchase Drivers
 ![Purchase Drivers](Dashboard_Page_3.png)
 
 ---
 
-## 🚀 Dashboard Features
-✔️ Marketing campaign performance analytics  
-✔️ Sales comparison across purchase channels (store, web, catalog, deals)  
-✔️ Identification of top-selling product categories  
-✔️ Customer profiling (age, income, education, household structure)  
-✔️ Age-based purchasing trend analysis  
-✔️ AI-driven segmentation with Key Influencers  
-✔️ Clean layout and intuitive navigation  
+## Dashboard Features
+Marketing campaign performance analytics  
+Sales comparison across purchase channels (store, web, catalog, deals)  
+Identification of top-selling product categories  
+Customer profiling (age, income, education, household structure)  
+Age-based purchasing trend analysis  
+AI-driven segmentation with Key Influencers  
+Clean layout and intuitive navigation  
 
 ---
 
-## 🧠 Key Business Insights
+## Key Business Insights
 - Campaigns **5** and **6** generate the highest revenue.  
 - Customers spend the most on **wine** and **meat**.  
 - **In-store purchases** dominate overall sales volume.  
@@ -46,7 +46,7 @@ The project consists of three main sections:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**  
 - **DAX**, **Power Query**  
 - **Data modeling**  
@@ -55,17 +55,17 @@ The project consists of three main sections:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 - `MarketMindz_Dashboard.pbix` – main Power BI report  
 - `README_EN.md` – English project description  
 - `/screenshots` – folder with dashboard screenshots  
 
 ---
 
-## 👨‍💻 Author
+## Author
 Dashboard developed by **Grzegorz Ryniewicz**.
 
 ---
 
-## 📜 License
+## License
 This project is released under the MIT License.
