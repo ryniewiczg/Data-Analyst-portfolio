@@ -41,6 +41,8 @@ Provides insights into product categories, customer segments, and organizational
 A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
 Project folder: `PowerBI/KrakenKoffee_Infographic``
 
+---
+
 
 
 ## Microsoft Excel Projects — Overview
