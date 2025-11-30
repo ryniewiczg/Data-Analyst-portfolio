@@ -20,9 +20,9 @@ Each project includes datasets, visuals, documentation, and the final analytical
 ---
 
 
-## 📂 Microsoft Power BI Projects — Overview
+## Microsoft Power BI Projects — Overview
 
-### 1️**MarketMindz – Market Research Dashboard**  
+### 1️. **MarketMindz – Market Research Dashboard**  
 Interactive Power BI dashboard analyzing customer trends, product performance, and market patterns.  
 Includes datasets, visuals, full documentation, and the final .pbix report.  
 *Project folder:* `PowerBI/MarketMindz_Market Research`
