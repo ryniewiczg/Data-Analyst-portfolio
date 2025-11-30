@@ -50,6 +50,9 @@ A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Fl
 Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
 *Project folder:* `Excel/Retail_Sales-Analysis`
 
+---
+
+
 
 ## Statistics Projects — Overview
 ### 1. Real Estate Market Analysis - Statistical Measures
