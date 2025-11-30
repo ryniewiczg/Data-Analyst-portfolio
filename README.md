@@ -17,7 +17,6 @@ Each project includes datasets, visuals, documentation, and the final analytical
 
 ---
 
----
 
 
 ## Microsoft Power BI Projects — Overview
