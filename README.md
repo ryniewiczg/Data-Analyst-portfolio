@@ -1,11 +1,11 @@
-# 📊 Data Analyst Portfolio
+# Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio — a collection of projects showcasing my skills in **Power BI, Tableau, data modeling, data visualization, SQL, Python, and analytical storytelling**.  
 Each project includes datasets, visuals, documentation, and the final analytical output.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Visualization-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-Analytics-E97627?style=flat&logo=tableau&logoColor=white)
@@ -17,82 +17,48 @@ Each project includes datasets, visuals, documentation, and the final analytical
 
 ---
 
-## 📁 Repository Structure
-
-```
-Data-Analyst-Portfolio
-│
-├── PowerBI
-│ ├── MarketMindz_Market Research
-│ │ ├── data/
-│ │ ├── visuals/
-│ │ ├── MarketMindz.pbix
-│ │ └── README.md
-│ │
-│ ├── Retail_Sales_Analysis
-│ │ ├── data/
-│ │ ├── visuals/
-│ │ ├── Retail_Sales.pbix
-│ │ └── README.md
-│ │
-│ ├── KrakenKoffee_Infographic
-│ │ ├── data/
-│ │ ├── visuals/
-│ │ ├── KrakenKofee_Infographic.pbix
-│ │ └── README.md
-│
-├── Excel
-│ └── Retail_Sales-Analysis
-│ ├── data/
-│ ├── visuals/
-│ ├── Retail_Sales.xlsx
-│ └── README.md
-│
-└── README.md ← you're here
-```
-
 ---
 
 
-## 📂 Power BI Projects — Overview
+## 📂 Microsoft Power BI Projects — Overview
 
-### 1️⃣ **MarketMindz – Market Research Dashboard**  
+### 1️**MarketMindz – Market Research Dashboard**  
 Interactive Power BI dashboard analyzing customer trends, product performance, and market patterns.  
 Includes datasets, visuals, full documentation, and the final .pbix report.  
-➡️ *Project folder:* `PowerBI/MarketMindz_Market Research`
+*Project folder:* `PowerBI/MarketMindz_Market Research`
 
 ---
 
-### 2️⃣ **Retail Sales Analysis – Power BI Project**  
+### 2️**Retail Sales Analysis – Power BI Project**  
 Dashboard exploring retail sales performance, profitability, and regional trends based on `superstore.xlsx`.  
 Provides insights into product categories, customer segments, and organizational KPIs.  
-➡️ *Project folder:* `PowerBI/Retail_Sales_Analysis`
+*Project folder:* `PowerBI/Retail_Sales_Analysis`
 
 ---
 
-### 3️⃣ Kraken Koffee – 2023 Half-Time Sales Review Dashboard
+### Kraken Koffee – 2023 Half-Time Sales Review Dashboard
 
 A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
-➡️ Project folder: `PowerBI/KrakenKoffee_Infographic``
+Project folder: `PowerBI/KrakenKoffee_Infographic``
 
 
 
-## 📂 Excel Projects — Overview
+## 📂 Microsoft Excel Projects — Overview
 
-### 1️⃣ 📊 Retail Sales Analysis – Excel Project
+### 1️ Retail Sales Analysis – Excel Project
 
 Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
-➡️ Project folder: Excel/Retail_Sales-Analysis
+Project folder: Excel/Retail_Sales-Analysis
 
 
 
 ## 📂 Statistics Projects — Overview
-### 1️⃣ Real Estate Market Statistics – Excel Project
+### Real Estate Market Statistics – Excel Project
 
 Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, range, standard deviation, and full descriptive analytics.
 ➜ Project folder: Excel/Real_Estate_Statistics
 
-## 📈 Upcoming Projects
+## Upcoming Projects
 More projects will be added soon, including:
 - Customer segmentation dashboard  
 - Sales forecasting  
@@ -101,12 +67,12 @@ More projects will be added soon, including:
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 I am a **Data Analyst** skilled in data modeling, BI dashboards, KPI measurement, and deriving actionable insights from complex datasets.  
 Certified in **Power BI, Tableau, SQL, and Python**.
 
 ---
 
-## 📬 Contact
+## Contact
 **LinkedIn:** https://www.linkedin.com/in/grzegorz-ryniewicz-922130125/  
 **GitHub:** https://github.com/rynniewiczg
