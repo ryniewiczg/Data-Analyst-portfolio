@@ -58,6 +58,14 @@ Project folder: Excel/Retail_Sales-Analysis
 Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, range, standard deviation, and full descriptive analytics.
 ➜ Project folder: Excel/Real_Estate_Statistics
 
+
+---
+
+
+## SQL Projects — Overview
+
+---
+
 ## Upcoming Projects
 More projects will be added soon, including:
 - Customer segmentation dashboard  
