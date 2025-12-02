@@ -55,10 +55,10 @@ Excel-based analytical model exploring retail sales, KPIs, and product insights 
 
 
 ## Statistics Projects — Overview
-### 1. Real Estate Market Analysis - Statistical Measures
+### 1. Real Estate Market Analysis - Central and dispersion metrics
 
-Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, range, standard deviation, and full descriptive analytics.
-*Project folder:* `Statistical Measures/Real_Estate_Statistics`
+Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, min, max, range, standard deviation, and full descriptive analytics.
+*Project folder:* `Statistics/Central and dispersion metrics - Real estate`
 
 ---
 
