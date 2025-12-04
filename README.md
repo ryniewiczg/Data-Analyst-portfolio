@@ -62,6 +62,18 @@ Statistical analysis of real estate data focused on price distribution, quartile
 
 ---
 
+### 2. Employee Data Analysis – HR metrics, correlations, and regression
+
+Statistical analysis of employee data focused on salary distribution, experience levels, job satisfaction scores, and department-level comparisons. Includes measures such as mean, median, mode, standard deviation, variance, correlation coefficients, and a linear regression model evaluating the relationship between experience and satisfaction. The project also examines salary dispersion across departments and provides visual insights using histogram and scatter plot charts.
+*Project folder:* `Statistics/Employee data analysis`
+
+
+
+
+
+
+---
+
 
 ## SQL Projects — Overview
 
