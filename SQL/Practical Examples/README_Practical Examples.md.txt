@@ -1,7 +1,10 @@
 # SQL Practice Tasks – Practical Examples
 
-This repository contains practical SQL exercises demonstrating the use of  
-`SELECT`, `WHERE`, and `ORDER BY` statements with real-world data scenarios.
+This repository contains a collection of SQL exercises completed as part of a Data Analytics course, using Google BigQuery Sandbox.
+The purpose of these tasks was to practice essential SQL skills commonly used in real analytical workflows, including data selection, filtering, sorting, and combining conditions to extract meaningful insights from datasets.
+
+These exercises helped me strengthen the foundations required for working with structured data, performing exploratory analysis, and preparing datasets for further processing or visualization.
+The queries included here represent typical operations used by data analysts on a daily basis when working with relational databases.
 
 
 ## Table of Contents
@@ -11,7 +14,7 @@ This repository contains practical SQL exercises demonstrating the use of
 4. [Combining Filtering and Sorting](#4-combining-filtering-and-sorting)
 
 
-Below are example exercises that I completed:
+Below are several SQL exercises that I completed as part of my learning process:
 
 
 1. Basic Queries: SELECT
@@ -129,63 +132,56 @@ amount descending.
     ORDER BY TotalAmount DESC;
 
 ------------------------------------------------------------------------
-
 Final Summary & Conclusions
 
-This collection of SQL exercises demonstrates the foundational skills
-needed to work with relational databases effectively.
-Throughout these tasks, you practiced:
+This collection of SQL exercises reflects the foundational skills I practiced while learning how to work effectively with relational databases.
+Throughout these tasks, I learned how to:
 
 #Selecting data
-
-Using the SELECT statement to retrieve specific columns or entire
-tables.
+Use the SELECT statement to retrieve specific columns or entire tables.
 
 #Filtering records
-
-Applying conditions with WHERE to extract only meaningful subsets of
-data.
+Apply conditions using WHERE to extract only the most relevant subsets of data.
 
 #Sorting results
-
-Using ORDER BY to organize output in ascending or descending order.
+Use ORDER BY to organize output in ascending or descending order.
 
 #Combining filtering and sorting
-
-Building more advanced, real‑world queries by applying multiple SQL
-operations together.
-
-------------------------------------------------------------------------
+Build more advanced, real-world queries by applying multiple SQL operations together.
 
 #Key Takeaways
 
--   SQL allows you to extract exactly the data you need using simple yet
-    powerful commands.
--   Understanding the relationship between SELECT, WHERE, and ORDER BY
-    is essential for any data analysis workflow.
--   Even basic SQL queries can answer meaningful business questions such
-    as:
-    -   Which products are the most expensive?
-    -   Which customers come from a specific country?
-    -   Which orders exceed a given value?
--   These exercises build a strong foundation for more advanced topics
-    like JOIN, GROUP BY, aggregates, subqueries, and database design.
+SQL enables me to extract exactly the data I need using simple yet powerful commands.
+Understanding how SELECT, WHERE, and ORDER BY work together is essential in any data analysis workflow.
+Even basic SQL queries can answer meaningful business questions such as:
+Which products are the most expensive?
+Which customers come from a specific country?
+Which orders exceed a certain value?
 
-------------------------------------------------------------------------
+Completing these exercises helped me build a strong foundation for more advanced topics like JOIN, GROUP BY, aggregates, subqueries, and database design.
 
-# What’s Next?
+What’s Next?
 
-To continue improving your SQL skills, consider exploring:
+To continue improving my SQL skills, I plan to explore:
 
--   Joins (INNER, LEFT, RIGHT)
--   Grouping and aggregation (GROUP BY, COUNT, SUM)
--   Subqueries
--   Creating and modifying tables (CREATE, ALTER, DROP)
--   Indexing and performance optimization
+#Joins (INNER, LEFT, RIGHT)
 
-As you gain confidence, you can start building more complex real-world
-data pipelines and analytical workflows.
+#Grouping and aggregation (GROUP BY, COUNT, SUM)
 
-------------------------------------------------------------------------
+#Subqueries
+
+#Creating and modifying tables (CREATE, ALTER, DROP)
+
+#Indexing and performance optimization
+
+As I gain more confidence, I aim to start building more complex, real-world data pipelines and analytical workflows.
+
+
+
+
+
+
+
+
 
 Happy learning!
