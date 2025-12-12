@@ -84,6 +84,11 @@ Statistical analysis of employee data focused on salary distribution, experience
 
 ## SQL Projects — Overview
 
+### 1. SQL Practice Exercises — BigQuery Sandbox
+
+A collection of SQL exercises completed as part of my Data Analytics learning, focused on selecting, filtering, and sorting data using Google BigQuery Sandbox. The project demonstrates practical skills in querying relational datasets and extracting meaningful insights through SQL.
+*Project folder:* `SQL/SQL Basics & Practice_Exercises`
+
 ---
 
 ## Upcoming Projects
