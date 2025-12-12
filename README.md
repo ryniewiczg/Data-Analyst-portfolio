@@ -55,7 +55,7 @@ Excel-based analytical model exploring retail sales, KPIs, and product insights 
 ### 2. Bike Sales Dashboard
 
 Excel-based interactive dashboard analyzing customer demographics, income, commute distance, and bike purchase behavior. The project showcases data cleaning, pivot table analysis, and visualization skills.
-Project folder:* `Excel/Bike_Sales_Dashboard`
+*Project folder:* `Excel/Bike_Sales_Dashboard`
 
 ---
 
