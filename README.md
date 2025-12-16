@@ -93,6 +93,8 @@ Through practical queries on relational datasets, I developed a solid foundation
 
 ---
 
+### 2. SQL Practice Exercises — SQL Server Management Studio
+
 ## Upcoming Projects
 More projects will be added soon, including:
 - Customer segmentation dashboard  
