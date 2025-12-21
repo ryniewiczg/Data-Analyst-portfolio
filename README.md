@@ -87,8 +87,16 @@ Statistical analysis of employee data focused on salary distribution, experience
 ### 1. SQL Practice Exercises — BigQuery Sandbox
 
 A collection of SQL exercises completed as part of my Data Analytics learning journey, using Google BigQuery Sandbox.  
-The project focuses on data filtering, handling NULL values, string operations, logical conditions, aliases, and sorting results.  
-Through practical queries on relational datasets, I developed a solid foundation in SQL and learned how to extract meaningful insights from structured data.
+This repository focuses on SQL fundamentals and data preparation, with particular emphasis on string operations such as CONCAT, SUBSTRING, LENGTH, TRIM, UPPER, LOWER, LEFT, RIGHT, and REPLACE.
+
+Additionally, the exercises cover:
+- data filtering using WHERE,
+- handling NULL values,
+- applying logical conditions,
+- working with column aliases,
+- sorting query results with ORDER BY.
+Through hands-on practice with relational datasets, I developed a solid foundation in SQL and learned how to clean, transform, and prepare structured data for analysis.
+
 *Project folder:* `SQL/SQL Basics & Practical_Examples`
 
 ---
