@@ -95,6 +95,7 @@ Additionally, the exercises cover:
 - applying logical conditions,
 - working with column aliases,
 - sorting query results with ORDER BY.
+  
 Through hands-on practice with relational datasets, I developed a solid foundation in SQL and learned how to clean, transform, and prepare structured data for analysis.
 
 *Project folder:* `SQL/SQL Basics & Practical_Examples`
