@@ -87,7 +87,7 @@ Statistical analysis of employee data focused on salary distribution, experience
 ### 1. SQL Practice Exercises — BigQuery Sandbox
 
 A collection of SQL exercises completed as part of my Data Analytics learning journey, using Google BigQuery Sandbox.  
-This repository focuses on SQL fundamentals and data preparation, with particular emphasis on string operations such as CONCAT, SUBSTRING, LENGTH, TRIM, UPPER, LOWER, LEFT, RIGHT, and REPLACE.
+This repository focuses on SQL fundamentals and data preparation, with particular emphasis on string operations such as * `CONCAT, SUBSTRING, LENGTH, TRIM, UPPER, LOWER, LEFT, RIGHT, and REPLACE.`
 
 Additionally, the exercises cover:
 - data filtering using WHERE,
