@@ -109,13 +109,13 @@ The exercises demonstrate how to perform calculations, handle numeric transforma
 
 Covered topics include:
 - mathematical operations on numeric columns
-  (ABS, POWER, SQRT, CEIL, FLOOR, RAND)
+  `(ABS, POWER, SQRT, CEIL, FLOOR, RAND)`
 - rounding and absolute values
-  (ROUND, CEIL, FLOOR)
+  `(ROUND, CEIL, FLOOR)`
 - Extracting date components
-  (EXTRACT – year and month)
+  `(EXTRACT – year and month)`
 - Formatting and data type conversions
-  (CAST, SAFE_CAST, FORMAT_DATE)
+  `(CAST, SAFE_CAST, FORMAT_DATE)`
   
 *Project folder:* `SQL/Practical_Examples_4`
 
