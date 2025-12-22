@@ -98,9 +98,27 @@ Additionally, the exercises cover:
   
 Through hands-on practice with relational datasets, I developed a solid foundation in SQL and learned how to clean, transform, and prepare structured data for analysis.
 
-*Project folder:* `SQL/SQL Basics & Practical_Examples`
+*Project folder:* `SQL/SQL Basics & Practical_Examples_1-3`
 
 ---
+
+### 2. SQL Numeric & Date Functions — BigQuery Sandbox
+
+This section focuses on numeric and date-related SQL functions commonly used in data analytics.
+The exercises demonstrate how to perform calculations, handle numeric transformations, and work with dates and time-based data in Google BigQuery.
+
+Covered topics include:
+- mathematical operations on numeric columns
+  (ABS, POWER, SQRT, CEIL, FLOOR, RAND)
+- rounding and absolute values
+  (ROUND, CEIL, FLOOR)
+- Extracting date components
+  (EXTRACT – year and month)
+- Formatting and data type conversions
+  (CAST, SAFE_CAST, FORMAT_DATE)
+  
+*Project folder:* `SQL/Practical_Examples_4`
+
 
 ### 2. SQL Practice Exercises — SQL Server Management Studio
 
