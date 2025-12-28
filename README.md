@@ -121,12 +121,12 @@ Covered topics include:
 
 ---
 
-## 3. SQL JOIN & UNION Operations — BigQuery
+### 3. SQL JOIN & UNION Operations — BigQuery
 
 This section focuses on combining data from multiple tables using `JOIN` and `UNION` operations in Google BigQuery.
 The exercises are designed to reflect real-world data analytics and data warehousing scenarios.
 
-### Covered topics include:
+Covered topics include:
 
 ### JOIN operations:
 - INNER JOIN and LEFT JOIN between fact and dimension tables
