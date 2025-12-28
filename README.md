@@ -121,7 +121,7 @@ Covered topics include:
 
 ---
 
-### 3. SQL JOIN & UNION Operations — BigQuery
+### 3. SQL JOIN & UNION Operations — BigQuery Sandbox
 
 This section focuses on combining data from multiple tables using `JOIN` and `UNION` operations in Google BigQuery.
 The exercises are designed to reflect real-world data analytics and data warehousing scenarios.
