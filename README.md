@@ -119,6 +119,34 @@ Covered topics include:
   
 *Project folder:* `SQL/Practical_Examples_4`
 
+---
+
+## 3. SQL JOIN & UNION Operations — BigQuery
+
+This section focuses on combining data from multiple tables using `JOIN` and `UNION` operations in Google BigQuery.
+The exercises are designed to reflect real-world data analytics and data warehousing scenarios.
+
+### Covered topics include:
+
+### JOIN operations:
+- INNER JOIN and LEFT JOIN between fact and dimension tables
+- Combining transactional and master data
+- Enriching fact tables with descriptive attributes
+- Working with warehouse, inventory, product, customer, and weather data
+
+### UNION operations:
+- Merging datasets from different sources
+- Creating unified lists (statuses, dates, postal codes)
+- Conditional UNION logic based on date thresholds
+- Combining historical fact tables across multiple years
+- Understanding differences between `UNION` and `UNION ALL`
+
+All examples follow BigQuery SQL standards and use clear naming conventions
+to ensure readability and maintainability.
+
+Project folder:
+`SQL/Practical_Examples_5`
+
 
 ### 2. SQL Practice Exercises — SQL Server Management Studio
 
