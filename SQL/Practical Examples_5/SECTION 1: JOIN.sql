@@ -20,6 +20,17 @@ LEFT JOIN `project.dataset.Payments` p
   ON o.order_id = p.order_id;
 
 
+SELECT
+o.OrderID,
+p.PaymentMethod,
+FROM `plasma-climber-480814-i2.Practima_Meeting_5.Orders`o
+LEFT JOIN `plasma-climber-480814-i2.Practima_Meeting_5.Payments`p
+ON o.OrderID=p.OrderID
+
+
+
+
+
 3. Display details of all warehouses and their assigned inventory. Even if a warehouse does not contain any products, include it in the results.
 
 SELECT
