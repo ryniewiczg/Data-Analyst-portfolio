@@ -1,6 +1,6 @@
 1. Join data from the Orders and Customers tables to display order details (Order ID, customer full name, total order amount).
 
-  SELECT
+SELECT
   o.order_id,
   CONCAT(c.first_name, ' ', c.last_name) AS customer_full_name,
   o.total_amount
