@@ -48,7 +48,7 @@ Belgium, United Kingdom, and the United States.
 The dashboard enables year-over-year comparisons, asset triage analysis,
 monitoring of active and inactive assets, and identification of top vendors
 and high-cost areas to support strategic and operational decision-making.
-*Project folder:* `PowerBI/Pharma_Asset_Spend_Analysis`
+      *Project folder:* `PowerBI/Pharma_Asset_Spend_Analysis`
 
 ---
 
