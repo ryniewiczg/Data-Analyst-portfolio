@@ -164,6 +164,51 @@ to ensure readability and maintainability.
 Project folder:
 `SQL/Practical_Examples_5`
 
+---
+
+### 4. SQL Aggregation & Grouping — BigQuery Sandbox
+
+This section focuses on aggregating and summarizing data using core SQL aggregation techniques in Google BigQuery.
+The exercises are designed to strengthen analytical thinking and reflect real-world reporting and business analytics use cases.
+
+Covered topics include:
+
+### Aggregation & Grouping:
+- Using aggregate functions: COUNT, SUM, AVG, MIN, MAX
+- Grouping data with GROUP BY (single and multiple columns)
+- Filtering aggregated results using the HAVING clause
+- Working with distinct values using COUNT(DISTINCT)
+- Performing time-based aggregations with DATE_TRUNC
+- Analyzing customer, product, warehouse, and discount-level metrics
+- Combining aggregation logic with JOINs across multiple tables
+
+All examples follow BigQuery SQL standards and focus on clear, readable, and scalable query design.
+
+*Project folder:* `SQL/Practical_Examples_4`
+
+---
+
+### 5. SQL Subqueries & CTEs — Advanced BigQuery Exercises
+
+This section focuses on advanced SQL querying techniques, including subqueries, correlated subqueries, and Common Table Expressions (CTEs) in Google BigQuery.
+The exercises are designed to simulate complex analytical scenarios and demonstrate how to structure multi-step SQL logic effectively.
+
+Covered topics include:
+
+### Subqueries & CTEs:
+- Subqueries in SELECT, WHERE, and FROM clauses
+- Correlated subqueries for row-level comparisons
+- Using CTEs (WITH clause) to build readable, modular queries
+- Applying business rules inside subqueries and CTEs
+- Combining aggregation, filtering, and joins in layered queries
+- Analyzing customer spend, discounts, inventory levels, and product performance
+- Identifying top-performing products and above-average customers
+
+All queries follow BigQuery SQL best practices, emphasizing maintainability, clarity, and real-world analytical logic.
+
+*Project folder:* `SQL/Practical_Examples_5`
+
+---
 
 ### 2. SQL Practice Exercises — SQL Server Management Studio
 
