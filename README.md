@@ -184,7 +184,7 @@ Covered topics include:
 
 All examples follow BigQuery SQL standards and focus on clear, readable, and scalable query design.
 
-*Project folder:* `SQL/Practical_Examples_4`
+*Project folder:* `SQL/Practical_Examples_6`
 
 ---
 
@@ -206,7 +206,7 @@ Covered topics include:
 
 All queries follow BigQuery SQL best practices, emphasizing maintainability, clarity, and real-world analytical logic.
 
-*Project folder:* `SQL/Practical_Examples_5`
+*Project folder:* `SQL/Practical_Examples_7`
 
 ---
 
