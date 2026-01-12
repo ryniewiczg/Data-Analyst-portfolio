@@ -39,9 +39,16 @@ Provides insights into product categories, customer segments, and organizational
 A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
 *Project folder:* `PowerBI/KrakenKoffee_Infographic`
 
+### 4. Pharma Asset & Spend Analysis – Multi-Country Dashboard (BE, UK, US)
+
+A Power BI dashboard developed for a pharmaceutical client to analyze asset management, contract and ad-hoc spend, and cost structure across three markets:
+Belgium, United Kingdom, and the United States.
+The dashboard enables year-over-year comparisons, asset triage analysis,
+monitoring of active and inactive assets, and identification of top vendors
+and high-cost areas to support strategic and operational decision-making.
+*Project folder:* `PowerBI/Pharma_Asset_Spend_Analysis`
+
 ---
-
-
 
 ## Microsoft Excel Projects — Overview
 
