@@ -61,6 +61,7 @@ and high-cost areas to support strategic and operational decision-making.
 ### 1️. Retail Sales Analysis
 
 Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
+
 *Project folder:* `Excel/Retail_Sales-Analysis`
 
 ---
@@ -68,6 +69,7 @@ Excel-based analytical model exploring retail sales, KPIs, and product insights 
 ### 2. Bike Sales Dashboard
 
 Excel-based interactive dashboard analyzing customer demographics, income, commute distance, and bike purchase behavior. The project showcases data cleaning, pivot table analysis, and visualization skills.
+
 *Project folder:* `Excel/Bike_Sales_Dashboard`
 
 ---
@@ -78,6 +80,7 @@ Excel-based interactive dashboard analyzing customer demographics, income, commu
 ### 1. Real Estate Market Analysis - Central and dispersion metrics
 
 Statistical analysis of real estate data focused on price distribution, quartiles, IQR-based outlier detection, district-level price-per-sqm comparison, and group analysis across property types. Includes measures such as mean, median, mode, min, max, range, standard deviation, and full descriptive analytics.
+
 *Project folder:* `Statistics/Central and dispersion metrics/Real estate`
 
 ---
@@ -85,6 +88,7 @@ Statistical analysis of real estate data focused on price distribution, quartile
 ### 2. Employee Data Analysis – HR metrics, correlations, and regression
 
 Statistical analysis of employee data focused on salary distribution, experience levels, job satisfaction scores, and department-level comparisons. Includes measures such as mean, median, mode, standard deviation, variance, correlation coefficients, and a linear regression model evaluating the relationship between experience and satisfaction. The project also examines salary dispersion across departments and provides visual insights using histogram and scatter plot charts.
+
 *Project folder:* `Statistics/Employee data analysis`
 
 
