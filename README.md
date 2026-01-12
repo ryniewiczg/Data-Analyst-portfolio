@@ -23,6 +23,7 @@ Each project includes datasets, visuals, documentation, and the final analytical
 ### 1️. **MarketMindz – Market Research Dashboard**  
 Interactive Power BI dashboard analyzing customer trends, product performance, and market patterns.  
 Includes datasets, visuals, full documentation, and the final .pbix report.  
+
 *Project folder:* `PowerBI/MarketMindz_Market Research`
 
 ---
@@ -30,6 +31,7 @@ Includes datasets, visuals, full documentation, and the final .pbix report.
 ### 2️. **Retail Sales Analysis**  
 Dashboard exploring retail sales performance, profitability, and regional trends based on `superstore.xlsx`.  
 Provides insights into product categories, customer segments, and organizational KPIs.  
+
 *Project folder:* `PowerBI/Retail_Sales-Analysis_PowerBI`
 
 ---
