@@ -210,6 +210,36 @@ All queries follow BigQuery SQL best practices, emphasizing maintainability, cla
 
 ---
 
+### 6. SQL Window Functions — BigQuery Sandbox
+
+This section focuses on SQL window functions used for advanced analytical queries in Google BigQuery. The exercises demonstrate how to perform calculations across related rows while preserving row-level detail, which is essential for analytical reporting and trend analysis.
+
+Covered topics include:
+- Using window definitions with the `OVER()` clause
+- Partitioning data using `PARTITION BY`
+- Ordering rows within partitions using `ORDER BY`
+- Applying conditional logic with `CASE` expressions
+Row numbering and ranking:
+- `ROW_NUMBER()`
+- `RANK()`
+- `DENSE_RANK()`
+
+Working with sequential data using:
+- `LEAD()`
+- `LAG()`
+
+- Comparing current values with previous and next rows
+- Analyzing trends, changes, and rankings over time
+- Identifying top-performing products, customers, and time periods
+
+Applying window functions to sales, customer, product, and time-based datasets
+
+*Project folder:* `SQL/Practical_Examples_8`
+
+
+
+
+
 ### 2. SQL Practice Exercises — SQL Server Management Studio
 
 ## Upcoming Projects
