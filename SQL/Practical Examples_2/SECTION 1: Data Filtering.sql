@@ -1,6 +1,6 @@
 1. Get customers (FirstName, LastName, Country) who live in the USA and have an email assigned.
 
-SELECT FirstName, LastName, Country
+SELECT FirstName, LastName, Country, Email,
 FROM Customers
 WHERE Country = 'USA'
   AND Email IS NOT NULL;
