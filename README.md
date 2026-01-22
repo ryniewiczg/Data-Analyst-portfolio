@@ -240,7 +240,20 @@ Applying window functions to sales, customer, product, and time-based datasets
 ---
 
 
-## Python Fundamentals — Google Colab Sandbox
+## Python — Google Colab Sandbox
+
+### 1. Python Fundamentals — Google Colab Sandbox
+
+This repository contains **introductory Python materials** created as hands-on notebooks in **Google Colab**. It complements earlier work with **SQL and BigQuery**, introducing Python as a tool for data analysis, automation, and further data processing.
+
+Covered topics include:
+- Python scripts and basic syntax
+- Variables and core data types (`int`, `float`, `str`, `bool`)
+- Numeric and string operations
+- Built-in functions
+- Introductory programming logic
+- Working in Google Colab
+
 
 ## Upcoming Projects
 More projects will be added soon, including:
