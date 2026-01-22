@@ -237,7 +237,7 @@ Applying window functions to sales, customer, product, and time-based datasets
 *Project folder:* `SQL/Practical_Examples_8`
 
 
-
+---
 
 
 ### Python Fundamentals — Google Colab Sandbox
