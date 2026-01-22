@@ -240,7 +240,7 @@ Applying window functions to sales, customer, product, and time-based datasets
 
 
 
-### 2. SQL Practice Exercises — SQL Server Management Studio
+### Python Fundamentals — Google Colab Sandbox
 
 ## Upcoming Projects
 More projects will be added soon, including:
