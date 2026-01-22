@@ -240,7 +240,7 @@ Applying window functions to sales, customer, product, and time-based datasets
 ---
 
 
-### Python Fundamentals — Google Colab Sandbox
+## Python Fundamentals — Google Colab Sandbox
 
 ## Upcoming Projects
 More projects will be added soon, including:
