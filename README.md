@@ -244,7 +244,8 @@ Applying window functions to sales, customer, product, and time-based datasets
 
 ### 1. Python Fundamentals — Google Colab Sandbox
 
-This repository contains **introductory Python materials** created as hands-on notebooks in **Google Colab**. It complements earlier work with **SQL and BigQuery**, introducing Python as a tool for data analysis, automation, and further data processing.
+This repository contains **introductory Python materials** created as hands-on notebooks in **Google Colab**. It builds a solid foundation in Python programming and introduces core data structures, preparing for further work in data analysis, automation, and data processing.
+The materials complement earlier work with **SQL** and **BigQuery**, showing Python as a natural next step in working with data.
 
 Covered topics include:
 - Python scripts and basic syntax
@@ -254,13 +255,14 @@ Covered topics include:
 - Introductory programming logic
 - Working in Google Colab
 
+Core Data Structures
+- Lists (list) – ordered, mutable collections
+- Tuples (tuple) – ordered, immutable sequences
+- Dictionaries (dict) – key–value data structures for fast access
+- Sets (set) – unordered collections of unique elements
+- Basic operations on data structures
+- Practical examples of when and why to use each structure
 
-## Upcoming Projects
-More projects will be added soon, including:
-- Customer segmentation dashboard  
-- Sales forecasting  
-- SQL data cleaning + BI visualization  
-- Python exploratory data analysis  
 
 ---
 
