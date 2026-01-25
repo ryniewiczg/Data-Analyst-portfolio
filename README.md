@@ -256,10 +256,10 @@ Covered topics include:
 - Working in Google Colab
 
 Core Data Structures
-- Lists (list) – ordered, mutable collections
-- Tuples (tuple) – ordered, immutable sequences
-- Dictionaries (dict) – key–value data structures for fast access
-- Sets (set) – unordered collections of unique elements
+- Lists (`list`) – ordered, mutable collections
+- Tuples (`tuple`) – ordered, immutable sequences
+- Dictionaries (`dict`) – key–value data structures for fast access
+- Sets (`set`) – unordered collections of unique elements
 - Basic operations on data structures
 - Practical examples of when and why to use each structure
 
