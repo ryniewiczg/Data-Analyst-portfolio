@@ -276,19 +276,19 @@ Covered topics include:
 - Logical operators (and, or, not)
 - Writing readable and predictable decision logic
 
-# For Loops
+### For Loops
 - Iterating over sequences (lists, tuples, strings)
 - Using range()
 - Loop variables and scope
 - Practical use cases for data processing and automation
 
-# While Loops
+### While Loops
 - Looping based on conditions
 - Avoiding infinite loops
 - Using counters and condition updates
 - When to use while vs for
 
-# Loop Control Statements
+### Loop Control Statements
 - break and continue
 - Basic loop nesting
 - Common looping patterns
