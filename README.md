@@ -263,6 +263,36 @@ Core Data Structures
 - Basic operations on data structures
 - Practical examples of when and why to use each structure
 
+---
+
+### 2. Control Flow and Loops — Program Flow in Python
+
+This section introduces fundamental concepts that control how a Python program executes. It focuses on decision-making and repetition, which are essential for writing dynamic and flexible code. The notebooks in this lesson build intuition for how programs respond to conditions and how repetitive tasks can be automated efficiently.
+
+Covered topics include:
+- Control Flow (Conditional Logic)
+- Conditional statements (if, elif, else)
+- Boolean expressions and comparison operators
+- Logical operators (and, or, not)
+- Writing readable and predictable decision logic
+
+# For Loops
+- Iterating over sequences (lists, tuples, strings)
+- Using range()
+- Loop variables and scope
+- Practical use cases for data processing and automation
+
+# While Loops
+- Looping based on conditions
+- Avoiding infinite loops
+- Using counters and condition updates
+- When to use while vs for
+
+# Loop Control Statements
+- break and continue
+- Basic loop nesting
+- Common looping patterns
+
 
 ---
 
