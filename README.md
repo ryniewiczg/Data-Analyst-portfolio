@@ -74,7 +74,13 @@ Excel-based interactive dashboard analyzing customer demographics, income, commu
 
 ---
 
+### 3. Biopharma Financial Reconciliation — Q1–Q4 2025
 
+Excel-based financial reconciliation project for a biopharma client, covering quarterly true-up and reconciliation processes for Q1–Q4 2025. The analysis focuses on debit vs credit comparison, managed fees, maintain parts, and currency handling, supported by structured datasets, pivot tables, and executive-level dashboards.
+
+*Project folder:* `Excel/BIOPHARMA_Dashboard`
+
+---
 
 ## Statistics Projects — Overview
 ### 1. Real Estate Market Analysis - Central and dispersion metrics
