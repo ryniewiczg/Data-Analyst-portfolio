@@ -312,21 +312,22 @@ Covered topics include:
 - Inspecting data: .head(), .info(), .describe()
 - Indexing and selecting data (loc, iloc, boolean indexing)
 
-Data Cleaning
+### Data Cleaning
 -Handling missing values (isna, fillna, dropna)
 - Changing data types
 - Renaming columns and indexes
 - Removing duplicates
 - Basic string operations on columns
 
-Data Transformation and Analysis
+### Data Transformation and Analysis
 - Filtering and sorting data
 - Applying functions to data (apply, map)
 - Aggregations and summary statistics
 - Grouping data with groupby
 - Simple data analysis workflows
 
-- 
+---
+
 ## About Me
 I am a **Data Analyst** skilled in data modeling, BI dashboards, KPI measurement, and deriving actionable insights from complex datasets.  
 Certified in **Power BI, Tableau, SQL, and Python**.
