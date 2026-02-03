@@ -299,9 +299,34 @@ Covered topics include:
 - Basic loop nesting
 - Common looping patterns
 
-
 ---
 
+### 3. Data Analysis with Pandas — Working with Tabular Data
+
+This section introduces the core concepts of data analysis using the pandas library. It focuses on loading, exploring, cleaning, and transforming tabular data, which are essential skills for data science, analytics, and automation tasks. The notebooks in this lesson build intuition for working efficiently with real-world datasets.
+
+Covered topics include:
+- Introduction to pandas and its role in the Python data ecosystem
+- Creating and manipulating Series and DataFrame objects
+- Reading and writing data (CSV, Excel, JSON)
+- Inspecting data: .head(), .info(), .describe()
+- Indexing and selecting data (loc, iloc, boolean indexing)
+
+Data Cleaning
+-Handling missing values (isna, fillna, dropna)
+- Changing data types
+- Renaming columns and indexes
+- Removing duplicates
+- Basic string operations on columns
+
+Data Transformation and Analysis
+- Filtering and sorting data
+- Applying functions to data (apply, map)
+- Aggregations and summary statistics
+- Grouping data with groupby
+- Simple data analysis workflows
+
+- 
 ## About Me
 I am a **Data Analyst** skilled in data modeling, BI dashboards, KPI measurement, and deriving actionable insights from complex datasets.  
 Certified in **Power BI, Tableau, SQL, and Python**.
