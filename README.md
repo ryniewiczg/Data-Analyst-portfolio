@@ -328,6 +328,18 @@ Covered topics include:
 
 ---
 
+### 4. Advanced Data Analysis with Pandas
+
+This section focuses on more advanced data analysis techniques using the pandas library. It builds on previously introduced concepts and emphasizes working with more complex data scenarios, such as incomplete datasets, multiple data sources, and advanced data preparation workflows. The goal is to deepen understanding of pandas as a tool for real-world data analysis.
+
+Covered topics include:
+- Identifying and handling missing data in complex datasets
+- Combining multiple datasets using merge and join operations
+- Manipulating and managing DataFrame indexes
+- Preparing datasets for further validation and comparison
+- Ensuring data consistency and preventing common data processing issues
+
+
 ## About Me
 I am a **Data Analyst** skilled in data modeling, BI dashboards, KPI measurement, and deriving actionable insights from complex datasets.  
 Certified in **Power BI, Tableau, SQL, and Python**.
