@@ -339,6 +339,24 @@ Covered topics include:
 - Preparing datasets for further validation and comparison
 - Ensuring data consistency and preventing common data processing issues
 
+---
+
+### 5. Data Visualization with Matplotlib
+
+This section introduces fundamental and practical techniques for data visualization using the Matplotlib library. 
+It builds on previously prepared datasets and focuses on transforming analytical results into clear, informative, and visually appealing charts. 
+The goal is to strengthen the ability to communicate insights effectively through visual representation.
+
+Covered topics include:
+- Creating line plots for time series and trend analysis
+- Building bar charts for category comparisons
+- Generating pie charts to visualize proportional data
+- Customizing plots (titles, labels, legends, colors, grid)
+- Formatting axes and improving readability of visualizations
+- Saving visualizations to files (PNG, JPG, PDF)
+
+
+
 
 ## About Me
 I am a **Data Analyst** skilled in data modeling, BI dashboards, KPI measurement, and deriving actionable insights from complex datasets.  
