@@ -355,6 +355,24 @@ Covered topics include:
 - Formatting axes and improving readability of visualizations
 - Saving visualizations to files (PNG, JPG, PDF)
 
+---
+
+### 6. Data Visualization with Seaborn
+
+This section introduces fundamental and advanced techniques for data visualization using the Seaborn library. Built on top of Matplotlib, Seaborn simplifies the creation of aesthetically pleasing and statistically informative visualizations. 
+It integrates seamlessly with Pandas and is particularly effective for exploratory data analysis.
+The goal of this section is to enhance the ability to analyze distributions, relationships between variables, and categorical data through clear and visually appealing statistical graphics.
+
+Covered topics include:
+- Creating distribution plots (histograms and KDE plots)
+- Building relational plots (scatterplot, lineplot)
+- Visualizing categorical data (bar plots, boxplots, strip plots via catplot)
+- Generating heatmaps and clustermaps for correlation analysis
+- Using pairplot for multi-variable relationship exploration
+- Creating complex relational visualizations with relplot
+- Using FacetGrid for subgroup comparisons
+- Customizing visual appearance (color palettes, legends, titles, labels)
+
 
 
 
