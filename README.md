@@ -69,7 +69,7 @@ Key insights include:
 - Warranty length impact on average sales
 - VIP customer sales tracking over time
 
-Project folder: PowerBI/Electronics_Shop_Sales_Analysis
+*Project folder:* `PowerBI/Electronics_Shop_Sales_Analysis`
 
 ---
 
