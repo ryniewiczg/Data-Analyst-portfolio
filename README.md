@@ -56,6 +56,23 @@ and high-cost areas to support strategic and operational decision-making.
 
 ---
 
+### 5. Electronics Shop – Sales Performance Dashboard
+
+Interactive Power BI dashboard analyzing sales performance of an electronics retailer across regions, customer segments, and warranty types.
+The report provides a comprehensive overview of total sales, revenue trends over the last two years, average transaction value, and customer growth. 
+It includes regional breakdowns, 30-day performance analysis, VIP customer sales trends, and sales comparison by warranty length (short vs long).
+
+Key insights include:
+- Monthly revenue and total sales trends (2-year view)
+- Rolling 30-day KPIs (average transaction value, sales volume)
+- Regional performance comparison (East, North, South, West)
+- Warranty length impact on average sales
+- VIP customer sales tracking over time
+
+Project folder: PowerBI/Electronics_Shop_Sales_Analysis
+
+---
+
 ## Microsoft Excel Projects — Overview
 
 ### 1️. Retail Sales Analysis
