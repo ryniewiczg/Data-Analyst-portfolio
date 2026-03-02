@@ -18,7 +18,7 @@ Each project includes datasets, visuals, documentation, and the final analytical
 ---
 
 
-## Microsoft PowerBI Projects — Overview
+## Microsoft PowerBI Projects (EXCEL) — Overview
 
 ### 1️. **MarketMindz – Market Research Dashboard**  
 Interactive Power BI dashboard analyzing customer trends, product performance, and market patterns.  
@@ -73,6 +73,22 @@ Key insights include:
 
 ---
 
+## Microsoft PowerBI Projects (SQL) — Overview
+
+---
+
+## Microsoft PowerBI Projects (SNOWFLAKE) — Overview
+
+---
+
+## Tableau Projects (EXCEL) — Overview
+
+---
+
+## Tableau Projects (PYTHON) — Overview
+
+---
+
 ## Microsoft Excel Projects — Overview
 
 ### 1️. Retail Sales Analysis
@@ -114,15 +130,9 @@ Statistical analysis of employee data focused on salary distribution, experience
 
 *Project folder:* `Statistics/Employee data analysis`
 
-
-
-
-
-
 ---
 
-
-## SQL Projects — Overview
+## SQL – Training Projects (Practima, Warsaw) — Overview
 
 ### 1. SQL Practice Exercises — BigQuery Sandbox
 
@@ -263,7 +273,7 @@ Applying window functions to sales, customer, product, and time-based datasets
 ---
 
 
-## Python — Google Colab Sandbox
+## Python – Training Projects (Practima, Warsaw)
 
 ### 1. Python Fundamentals — Google Colab Sandbox
 
