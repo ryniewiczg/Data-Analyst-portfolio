@@ -93,6 +93,10 @@ Based on a CSV dataset containing tweet metadata, categories, timestamps, and us
 
 ---
 
+## Tableau Projects (SQL) — Overview
+
+---
+
 ## Tableau Projects (PYTHON) — Overview
 
 ---
