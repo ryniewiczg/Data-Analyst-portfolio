@@ -93,6 +93,21 @@ Based on a CSV dataset containing tweet metadata, categories, timestamps, and us
 
 ---
 
+### 2. Credit Card Complaints Dashboard
+
+Interactive Tableau dashboard analyzing credit card complaint data, focusing on complaint trends, response performance, issue categories, and geographic density.
+The dashboard provides KPI monitoring, time-series analysis, daily activity heatmaps, and regional complaint distribution.
+
+Based on an Excel dataset containing complaint records, issue types, timestamps, and response status information.
+
+*Project folder:* `Tableau/Credit_Card_Complaints_Dashboard`
+
+
+
+
+
+
+
 ## Tableau Projects (SQL) — Overview
 
 ---
