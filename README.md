@@ -116,6 +116,8 @@ Based on an Excel dataset containing complaint records, issue types, timestamps,
 
 *Project folder:* `Tableau/Credit_Card_Complaints_Dashboard`
 
+---
+
 ### 3. Road Accidents Dashboard
 
 Interactive Tableau dashboard analyzing UK road accident data, focusing on casualty severity, road conditions, vehicle involvement, and geographic distribution.
