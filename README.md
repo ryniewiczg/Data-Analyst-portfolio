@@ -97,7 +97,7 @@ Key insights include:
 
 ## Tableau Projects (EXCEL) — Overview
 
-### 1. Social Media Analytics – New Year’s Resolutions
+### 1. Social Media Analytics – New Year’s Resolutions Dashboard
 
 Interactive Tableau dashboard analyzing social media tweets related to New Year’s resolutions. The dashboard explores tweet frequency over time, hourly activity patterns, category distribution, and geographic trends.
 
