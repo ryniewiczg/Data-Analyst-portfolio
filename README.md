@@ -127,6 +127,19 @@ The dashboard includes KPI monitoring, environmental condition analysis, road ty
 
 ---
 
+## Tableau Projects (SNOWFLAKE) — Overview
+
+### 1. HR Analytics Dashboard
+
+Interactive analytics project demonstrating a full data workflow from raw data ingestion in Snowflake to an interactive Tableau dashboard.
+The project includes data modeling with a star schema, SQL-based analytical views, and a dashboard analyzing HR transactions, employee performance, departmental profitability, and key business KPIs.
+
+Based on a dataset containing HR transaction records, employee data, job roles, departmental information, and revenue/profit metrics.
+
+*Project folder:* `Tableau/HR_Analytics_Snowflake_Dashboard`
+
+---
+
 ## Tableau Projects (SQL) — Overview
 
 ---
