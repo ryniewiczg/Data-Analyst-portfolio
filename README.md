@@ -142,6 +142,14 @@ Based on a dataset containing HR transaction records, employee data, job roles, 
 
 ## Tableau Projects (SQL) — Overview
 
+### 1. Shopnest Sales Analytics Dashboard
+
+Interactive analytics project demonstrating a full data workflow from raw transactional data stored in <u>MySQL</u> to an interactive Tableau dashboard. The project includes data preparation using <u>MySQL / SQL queries</u> and a dashboard analyzing sales performance, customer profitability, product categories, and key business KPIs.
+
+Based on an e-commerce dataset containing customers, products, transactions, sales, profit, and discount information.
+
+*Project folder:* `Tableau/E-Commerce_Analytics_Dashboard` 
+
 ---
 
 ## Tableau Projects (PYTHON) — Overview
