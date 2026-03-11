@@ -8,11 +8,6 @@ The repository includes projects built using **Power BI, Tableau, Excel, SQL, Az
 
 ## Tech Stack
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="20"/> Power BI
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="20"/> Tableau
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="20"/> Excel
-
-
 **Business Intelligence**
 - Power BI
 - Tableau
