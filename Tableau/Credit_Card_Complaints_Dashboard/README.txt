@@ -1,63 +1,56 @@
 Credit Card Complaints Dashboard (Tableau)
 
+An interactive Tableau dashboard analyzing credit card complaint data to monitor complaint trends, response performance, and issue distribution.
+
+The project focuses on identifying operational patterns in customer complaints and providing insights useful for customer service, compliance, and risk monitoring teams.
+
+
 Project Overview
 
-This project presents an interactive Tableau dashboard analyzing credit card complaint data across multiple years.
+Financial institutions receive large volumes of customer complaints related to billing issues, transaction disputes, and service quality. Monitoring these complaints helps organizations improve response efficiency and identify recurring operational issues.
 
-The objective was to evaluate complaint trends, response performance, and issue distribution while providing a structured overview suitable for operational or risk monitoring teams.
+This dashboard provides a structured view of complaint activity across time, geography, and issue categories.
 
-Business Context
+The analysis focuses on:
+- complaint volume trends over time
+- response performance monitoring
+- geographic distribution of complaints
+- identification of the most common complaint categories
 
-Financial institutions receive large volumes of customer complaints. Monitoring response efficiency, identifying recurring issues, and understanding geographic concentration are critical for improving service quality and risk management.
 
-This dashboard simulates an analytical environment where compliance, operations, or customer experience teams track complaint performance metrics.
+Dashboard Features
+- Total complaint volume overview
+- Timely response rate KPI
+- Monitoring of in-progress cases
+- Time-series complaint trend analysis
+- Daily complaint activity heatmap
+- Geographic complaint density map
+- Top 10 complaint issue categories
+- Interactive filters for data exploration
 
-Scope of Analysis
-
-The dashboard includes:
-
-Total complaint volume overview
-
-Timely response tracking and response rate percentage
-
-In-progress case monitoring
-
-Time-series complaint trends
-
-Daily complaint heatmap analysis
-
-Geographic complaint density map
-
-Top 10 complaint issue categories
-
-Data Preparation
-
-Imported structured Excel dataset
-
-Cleaned and standardized categorical fields
-
-Created calculated metrics for response rates and in-progress percentages
-
-Built time-based aggregations (monthly trends, daily heatmap)
-
-Structured dashboard layout for executive-level KPI monitoring
 
 Key Insights
+- Complaint volume shows a clear upward trend across the analyzed period.
+- The timely response rate remains very high (≈99%), indicating strong operational compliance.
+- Billing disputes represent the most frequent complaint category.
+- Some geographic regions show noticeably higher complaint density.
+- Daily activity patterns suggest recurring intra-week variations that could inform workforce planning.
 
-Complaint volume shows a clear upward trend over the observed period, with noticeable peaks in later years.
 
-Timely response rate remains consistently high (approx. 99%), indicating strong operational compliance performance.
+Data Preparation
+The dataset was prepared in Excel before visualization in Tableau.
 
-Billing disputes represent the most dominant complaint category, significantly exceeding other issue types.
+Preparation steps included:
+- cleaning and standardizing categorical fields
+- creating calculated metrics for response rates and in-progress cases
+- generating time-based aggregations for trend analysis
 
-Certain geographic regions show higher complaint density, suggesting potential market concentration or service gaps.
 
-Daily heatmap patterns highlight recurring intra-week activity variations, useful for workforce planning.
+Tools & Technologies
+- Tableau
+- Microsoft Excel
+- Calculated fields
+- Geographic visualizations
+- Time-series analysis
 
-Tools Used
 
-Tableau
-Excel dataset
-Calculated fields and KPI design
-Geographic visualization
-Time-series analysis
