@@ -243,7 +243,7 @@ The analysis focuses on debit vs credit comparison, managed service fees, and fi
 - Financial reconciliation analysis
 - Quarterly financial performance overview
 
-*Project folder:* `Excel/BIOPHARMA_Dashboard`
+*Project folder:* `Excel/BIOPHARMA_Financial Reconciliations`
 
 ---
 
