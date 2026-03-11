@@ -44,7 +44,7 @@ The dashboard helps identify patterns in customer segments and product demand wh
 - Market demand patterns
 - Category level insights
 
-Dataset: Custom market research dataset
+Dataset: Custom market research dataset                                    
 *Project folder:* `PowerBI/MarketMindz_Market Research`
 
 ---
