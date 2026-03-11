@@ -67,8 +67,17 @@ Dataset: superstore.xlsx
 
 ### 3. Kraken Koffee – 2023 Half-Time Sales Review Dashboard
 
-A Power BI dashboard analyzing sales performance across Kraken Koffee’s new Florida region, including KPIs, product trends, hourly revenue behavior, and a 2023 sales forecast.
+This project focuses on sales performance analysis for Kraken Koffee’s Florida region.
+The dashboard examines product trends, revenue behavior throughout the day, and provides a mid-year sales performance overview.
+The goal of the report is to support operational and strategic decisions by identifying peak sales periods and top-performing products.
 
+**Key insights explored:**
+- Revenue trends over time
+- Hourly sales patterns
+- Product performance
+- Mid-year sales overview
+
+Dataset: Internal sales dataset          
 *Project folder:* `PowerBI/KrakenKoffee_Infographic`
 
 ---
