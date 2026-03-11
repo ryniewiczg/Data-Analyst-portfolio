@@ -208,7 +208,12 @@ Dataset: E-commerce dataset containing customers, products, transactions, sales,
 
 ### 1️. Retail Sales Analysis
 
-Excel-based analytical model exploring retail sales, KPIs, and product insights using structured spreadsheets.
+Excel-based analytical model exploring retail sales performance, product trends, and key business KPIs using structured datasets and spreadsheet analysis.
+
+**Key insights**
+- Retail sales and revenue analysis
+- Product-level performance comparison
+- Key KPI tracking
 
 *Project folder:* `Excel/Retail_Sales-Analysis`
 
@@ -216,7 +221,13 @@ Excel-based analytical model exploring retail sales, KPIs, and product insights 
 
 ### 2. Bike Sales Dashboard
 
-Excel-based interactive dashboard analyzing customer demographics, income, commute distance, and bike purchase behavior. The project showcases data cleaning, pivot table analysis, and visualization skills.
+Interactive Excel dashboard analyzing customer demographics and purchasing behavior related to bike sales.  
+The project demonstrates data cleaning, pivot table analysis, and dashboard design in Excel.
+
+**Key insights**
+- Customer demographic analysis
+- Income and commute distance impact on purchases
+- Bike purchase behavior patterns
 
 *Project folder:* `Excel/Bike_Sales_Dashboard`
 
@@ -224,7 +235,13 @@ Excel-based interactive dashboard analyzing customer demographics, income, commu
 
 ### 3. Biopharma Financial Reconciliation — Q1–Q4 2025
 
-Excel-based financial reconciliation project for a biopharma client, covering quarterly true-up and reconciliation processes for Q1–Q4 2025. The analysis focuses on debit vs credit comparison, managed fees, maintain parts, and currency handling, supported by structured datasets, pivot tables, and executive-level dashboards.
+Excel-based financial reconciliation project analyzing quarterly financial data for a biopharma business scenario.  
+The analysis focuses on debit vs credit comparison, managed service fees, and financial reconciliation processes.
+
+**Key insights**
+- Debit vs credit transaction comparison
+- Financial reconciliation analysis
+- Quarterly financial performance overview
 
 *Project folder:* `Excel/BIOPHARMA_Dashboard`
 
