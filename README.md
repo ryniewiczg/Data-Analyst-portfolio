@@ -91,10 +91,6 @@ Key insights include:
 
 ---
 
-## Microsoft PowerBI Projects (SQL SNOWFLAKE) — Overview
-
----
-
 ## Tableau Projects (EXCEL) — Overview
 
 ### 1. Social Media Analytics – New Year’s Resolutions Dashboard
