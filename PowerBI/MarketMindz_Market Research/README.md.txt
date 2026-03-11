@@ -1,71 +1,50 @@
-# MarketMindz – Marketing & Customer Analytics Dashboard
-A comprehensive Power BI dashboard analyzing marketing campaign performance, customer purchasing behavior, and key drivers influencing sales.
+MarketMindz – Marketing & Customer Analytics Dashboard
 
-## Project Overview
-The **MarketMindz** dashboard was designed to provide a complete view of campaign effectiveness, customer preferences, and demographic composition. It includes key sales metrics, segment analyses, and an AI-powered *Key Influencers* model.
+A Power BI dashboard analyzing marketing campaign performance, customer purchasing behavior, and key factors influencing sales outcomes.
 
-The project consists of three main sections:
+Project Overview:
 
-1. **Campaign Performance** – performance insights for each campaign  
-2. **Buyer Composition** – demographic and behavioral customer profiles  
-3. **Purchase Drivers** – factors influencing sales and campaign selection  
+The MarketMindz dashboard explores how marketing campaigns perform across different customer segments and purchase channels. It provides insights into campaign effectiveness, customer demographics, and product purchasing trends.
 
----
+The report is organized into three analytical sections:
 
-## Dashboard Screenshots
+1. Campaign Performance – comparison of campaign results and revenue impact 
+2. Buyer Composition – analysis of customer demographics and purchasing patterns  
+3. Purchase Drivers – identification of factors influencing sales using the Key Influencers visual  
 
-### 1. Campaign Performance
+
+Dashboard Screenshots
+
+1. Campaign Performance
 ![Campaign Performance](Dashboard_Page_1.png)
 
-### 2. Buyer Composition
+2. Buyer Composition
 ![Buyer Composition](Dashboard_Page_2.png)
 
-### 3. Purchase Drivers
+3. Purchase Drivers
 ![Purchase Drivers](Dashboard_Page_3.png)
 
----
 
-## Dashboard Features
-Marketing campaign performance analytics  
-Sales comparison across purchase channels (store, web, catalog, deals)  
-Identification of top-selling product categories  
-Customer profiling (age, income, education, household structure)  
-Age-based purchasing trend analysis  
-AI-driven segmentation with Key Influencers  
-Clean layout and intuitive navigation  
+Dashboard Features:
+- Marketing campaign performance analysis
+- Sales comparison across purchase channels (store, web, catalog, deals)
+- Product category performance tracking
+- Customer demographic profiling (age, income, education, household structure)
+- Age-based purchasing trend analysis
+- AI-driven insights using the Key Influencers visual
+- Clean dashboard layout and interactive filtering
 
----
+Key Business Insights:
+- Campaigns 5 and 6 generate the highest revenue.
+- Customers spend the most on wine and meat categories.
+- In-store purchases account for the majority of total sales.
+- Most customers have higher education degrees.
+- Income and number of web visits strongly influence sales and campaign participation.
+- Older customers purchase proportionally more wine, while younger customers tend to buy more meat products.
 
-## Key Business Insights
-- Campaigns **5** and **6** generate the highest revenue.  
-- Customers spend the most on **wine** and **meat**.  
-- **In-store purchases** dominate overall sales volume.  
-- Most customers have **higher education degrees**.  
-- Income and number of web visits strongly correlate with sales and campaign choice.  
-- Older customers buy proportionally more **wine**, while younger customers buy more **meat**.  
-
----
-
-## Tools & Technologies
-- **Power BI Desktop**  
-- **DAX**, **Power Query**  
-- **Data modeling**  
-- **Key Influencers AI Visual**  
-- **Data visualization best practices**  
-
----
-
-## Repository Structure
-- `MarketMindz_Dashboard.pbix` – main Power BI report  
-- `README_EN.md` – English project description  
-- `/screenshots` – folder with dashboard screenshots  
-
----
-
-## Author
-Dashboard developed by **Grzegorz Ryniewicz**.
-
----
-
-## License
-This project is released under the MIT License.
+Tools & Technologies:
+- Power BI Desktop
+- DAX
+- Power Query
+- Data modeling (star schema)
+- Key Influencers AI visual
