@@ -1,76 +1,47 @@
-This project is an Excel-based Bike Sales Dashboard, which I built to analyze customer demographics and purchasing behavior.
-The goal was to understand what factors influence bike purchases and to create an interactive dashboard that supports quick, data-driven decision-making.
+Bike Sales Dashboard (Excel)
 
-During this project, I cleaned the dataset, performed analysis using Pivot Tables, and designed a fully interactive dashboard, demonstrating practical skills in Excel for Data Analytics and Business Intelligence.
-
-
-Project Objectives
-
-In this project, I aimed to:
-
-- analyze factors that influence whether a customer buys a bike,
-
-- explore relationships between income, age, and commute distance,
-
-- build an interactive Excel dashboard that clearly communicates key insights.
+An interactive Excel dashboard analyzing customer demographics and purchasing behavior to understand the factors influencing bike purchases.
+The project focuses on identifying relationships between income, age, and commute distance while presenting insights through an easy-to-use dashboard built with Pivot Tables and slicers.
 
 
-Dataset Summary
+Project Overview
 
-The dataset includes information about customer:
+The dashboard was created to explore how demographic and economic factors affect customer purchasing decisions. It allows users to filter the data and quickly identify patterns in bike sales across different customer groups.
 
-- demographics: gender, marital status, education, region, occupation
+The analysis focuses on:
+- customer demographics and purchasing behavior
+- relationships between income, age, and commute distance
+- identifying segments most likely to purchase bikes
 
-- economic factors: income, commute distance
 
-- purchase behavior: whether the customer bought a bike
-
-Tools & Skills Demonstrated
-
-Technical Skills
-
-- Data cleaning and preparation
-- Pivot Tables, calculations, aggregations
-- Pivot Charts and dashboard layout
-- Slicers, conditional formatting, interactive filters
-
-Soft Skills
-
-- Analytical thinking
-- Data storytelling
-- Presenting insights visually
+Dataset
+The dataset contains customer-level information including:
+- Demographics: gender, marital status, education, region, occupation
+- Economic factors: income and commute distance
+- Purchase behavior: whether the customer purchased a bike
 
 
 Dashboard Features
-
 - Interactive slicers for gender, region, and marital status
-
-- Clear visualizations showing:
-
-- Income vs. purchase decision
-
-- Commute distance distribution
-
-- Purchase trends by age group
-
-- Clean and professional dashboard layout suitable for reporting
+- Pivot Table analysis for customer segmentation
+- Visualizations exploring income vs purchase decisions
+- Analysis of commute distance distribution
+- Purchase trends across age groups
+- Clean and structured Excel dashboard layout
 
 
-Key Insights
-
-Higher-income customers are more likely to purchase a bike.
-
-People aged 31–45 show the highest purchase rate.
-
-Shorter commute distances correlate with a higher likelihood of buying a bike.
+Key Business Insights
+- Customers with higher income levels are more likely to purchase bikes.
+- The 31–45 age group shows the highest purchase rate.
+- Customers with shorter commute distances tend to purchase bikes more frequently.
 
 
-Key Learnings
+Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data cleaning and preparation
 
-Through this project:
 
-I improved my skills in cleaning and preparing data in Excel
-
-I learned how to design interactive dashboards using Pivot Tables and Slicers
-
-I strengthened my ability to turn raw data into meaningful business insights
