@@ -1,183 +1,73 @@
 Shopnest Sales Analytics Dashboard (MySQL + Tableau)
 
-This project demonstrates an end-to-end analytics workflow using MySQL as the relational database and Tableau for interactive data visualization.
+An end-to-end analytics project combining MySQL for data preparation and Tableau for interactive visualization.
 
-The goal of the project was to simulate a real-world analytics process: importing raw data, preparing it in SQL, creating analytical metrics, and building a business dashboard that provides insights into sales performance and customer behavior.
+The project analyzes e-commerce data from the fictional Shopnest platform to explore sales performance, customer profitability, and product trends.
+
 
 Project Overview
 
-The project analyzes Shopnest e-commerce data including:
+The goal of this project was to simulate a real-world analytics workflow, starting from raw transactional data stored in a relational database and ending with a business intelligence dashboard.
 
-Sales transactions
+The analysis focuses on:
+- sales performance across product categories
+- customer profitability and segmentation
+- impact of discounts on profit margins
+- geographic distribution of sales
+- sales trends over time
 
-Customers
+The final Tableau dashboard enables interactive exploration of these metrics through filters and dynamic visualizations.
 
-Products
 
-Discounts
+Data Preparation (MySQL)
+The data preparation layer was implemented using MySQL, where raw CSV datasets were imported and transformed before visualization.
 
-Profit performance
+Key preparation steps included:
+- creating a MySQL database and importing raw data
+- cleaning and validating data fields
+- aggregating sales and profit metrics
+- preparing category-level and customer-level summaries
+- generating calculated fields used in the Tableau dashboard
 
-The final Tableau dashboard enables users to explore:
-
-Sales performance by product category
-
-Profit distribution across customer tiers
-
-Sales trends over time
-
-Sales by subscription plan type
-
-Geographic sales distribution
-
-Customer profitability
-
-Relationship between discount and profit
-
-Users can dynamically filter the dashboard by:
-
-Customer Tier
-
-Plan Type
-
-Product Category
-
-Database (MySQL)
-
-The data preparation layer was built using MySQL, where the raw data was loaded and prepared for analysis.
-
-Key steps included:
-
-Creating a MySQL database
-
-Importing CSV datasets into MySQL tables
-
-Cleaning and validating data using SQL queries
-
-Creating calculated metrics for analysis
-
-Preparing tables for BI visualization
-
-Example operations performed in SQL:
-
-Aggregating sales metrics
-
-Calculating profit values
-
-Preparing category-level summaries
-
-Creating fields used in Tableau dashboards
-
-Data Preparation Steps (MySQL)
-
-The following steps were performed during the data preparation process:
-
-1. Database creation
-
-A new MySQL database was created to store the e-commerce dataset.
-
-2. Importing CSV data
-
-Raw CSV files containing sales, product, and customer information were imported into MySQL tables.
-
-3. Data validation
-
-Basic validation queries were executed to ensure:
-
-No missing key values
-
-Correct data types
-
-Consistent category labels
-
-4. Data aggregation
-
-SQL queries were used to compute:
-
-Total sales
-
-Profit metrics
-
-Category level summaries
-
-Customer-level profitability
-
-5. Preparing data for Tableau
-
-The cleaned dataset was connected directly to Tableau for dashboard development.
 
 Tableau Dashboard
-
-The final dashboard was built in Tableau using the processed MySQL data.
-
-The dashboard provides a high-level overview of business performance together with interactive analytical views.
-
-Key dashboard components
+The final dashboard provides a high-level overview of business performance together with detailed analytical views.
 
 KPI Indicators
-
-Total Customers
-
-Total Products
-
-Total Profit
-
-Average Customer Value
+- Total Customers
+- Total Products
+- Total Profit
+- Average Customer Value
 
 Visualizations
-
-Category Sales heatmap
-
-Profit distribution by Customer Tier
-
-Sales distribution by Plan Type
-
-Monthly Sales Trend
-
-Sales by Geographic Location (Map)
-
-Top Customers by Profit
-
-Profit vs Discount analysis (scatter plot)
-
-Sales by Media Type (stacked area chart)
+- Category sales heatmap
+- Profit distribution by customer tier
+- Sales distribution by plan type
+- Monthly sales trend analysis
+- Geographic sales distribution (map)
+- Top customers by profit
+- Profit vs discount relationship (scatter plot)
 
 Interactive Features
+The dashboard includes several interactive elements to support data exploration:
+- global filters for Customer Tier, Plan Type, and Product Category
+- cross-chart filtering and highlighting
+- dynamic KPI overview linked with detailed charts
 
-The dashboard includes interactive functionality to improve data exploration:
 
-Global filters for Customer Tier, Plan Type, and Category
+Key Insights
+- Sales performance varies significantly across product categories.
+- Certain customer tiers generate a disproportionate share of total profit.
+- Higher discounts often correlate with reduced profit margins.
+- Geographic sales distribution reveals areas with stronger market performance.
 
-Hover highlight interactions between charts
 
-Dynamic filtering across multiple visualizations
+Tools & Technologies
+- MySQL
+- SQL
+- Tableau
+- Data cleaning and validation
+- Data aggregation
+- Interactive data visualization
 
-KPI overview with supporting analytical charts
 
-Technologies Used
-
-MySQL
-
-SQL
-
-Tableau
-
-Data Cleaning
-
-Data Aggregation
-
-Data Visualization
-
-Key Skills Demonstrated
-
-SQL data preparation
-
-Data cleaning and validation
-
-Analytical metric creation
-
-Business dashboard design
-
-Interactive data visualization
-
-Data storytelling with BI tools
