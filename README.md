@@ -16,10 +16,6 @@ Each project includes datasets, visualizations, documentation, and the final ana
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
 
 ## Core Skills
 
