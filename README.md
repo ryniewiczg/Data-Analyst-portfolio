@@ -50,9 +50,17 @@ Dataset: Custom market research dataset
 ---
 
 ### 2️. **Retail Sales Analysis**  
-Dashboard exploring retail sales performance, profitability, and regional trends based on `superstore.xlsx`.  
-Provides insights into product categories, customer segments, and organizational KPIs.  
+This dashboard analyzes retail sales performance using the well-known Superstore dataset.
+It focuses on identifying trends in revenue, profitability, and regional sales distribution.
+The report highlights how different product categories and customer segments contribute to overall business performance.
 
+**Key insights explored:**
+- Sales and profit trends
+- Regional sales performance
+- Product category analysis
+- Customer segment contribution
+
+Dataset: superstore.xlsx
 *Project folder:* `PowerBI/Retail_Sales-Analysis_PowerBI`
 
 ---
