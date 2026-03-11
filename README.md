@@ -60,7 +60,7 @@ The report highlights how different product categories and customer segments con
 - Product category analysis
 - Customer segment contribution
 
-Dataset: superstore.xlsx
+Dataset: superstore.xlsx      
 *Project folder:* `PowerBI/Retail_Sales-Analysis_PowerBI`
 
 ---
