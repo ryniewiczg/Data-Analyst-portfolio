@@ -84,12 +84,16 @@ Dataset: Internal sales dataset
 
 ### 4. Pharma Asset & Spend Analysis – Multi-Country Dashboard (BE, UK, US)
 
-A Power BI dashboard developed for a pharmaceutical client to analyze asset management, contract and ad-hoc spend, and cost structure across three markets:
-Belgium, United Kingdom, and the United States.
-The dashboard enables year-over-year comparisons, asset triage analysis,
-monitoring of active and inactive assets, and identification of top vendors
-and high-cost areas to support strategic and operational decision-making.
+This Power BI dashboard was designed for a pharmaceutical business scenario to analyze asset management and operational spending across multiple countries.
+The report compares spending patterns across Belgium, the United Kingdom, and the United States, helping identify high-cost vendors, inactive assets, and potential optimization opportunities.
 
+**Key insights explored:**
+- Asset activity monitoring
+- Vendor spend analysis
+- Country-level cost comparison
+- Identification of high-cost areas
+
+Dataset: Pharmaceutical asset and spend dataset      
 *Project folder:* `PowerBI/Pharma_Asset_Spend_Analysis`
 
 ---
