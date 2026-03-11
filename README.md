@@ -100,11 +100,11 @@ Dataset: Pharmaceutical asset and spend dataset
 
 ### 5. Electronics Shop – Sales Performance Dashboard
 
-Interactive Power BI dashboard analyzing sales performance of an electronics retailer across regions, customer segments, and warranty types.
-The report provides a comprehensive overview of total sales, revenue trends over the last two years, average transaction value, and customer growth. 
-It includes regional breakdowns, 30-day performance analysis, VIP customer sales trends, and sales comparison by warranty length (short vs long).
+This project analyzes sales performance for an electronics retailer across regions, customer segments, and warranty types.  
+The dashboard provides a clear overview of revenue trends, sales performance, and customer behavior over a two-year period.
+It highlights regional performance differences, tracks VIP customer activity, and examines how warranty length influences purchasing patterns.
 
-Key insights include:
+**Key insights:**
 - Monthly revenue and total sales trends (2-year view)
 - Rolling 30-day KPIs (average transaction value, sales volume)
 - Regional performance comparison (East, North, South, West)
