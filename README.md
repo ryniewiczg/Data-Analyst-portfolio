@@ -87,11 +87,11 @@ Key insights include:
 
 ---
 
-## Microsoft PowerBI Projects (SQL) — Overview
+## Microsoft PowerBI Projects (SQL AZURE) — Overview
 
 ---
 
-## Microsoft PowerBI Projects (SNOWFLAKE) — Overview
+## Microsoft PowerBI Projects (SQL SNOWFLAKE) — Overview
 
 ---
 
@@ -149,10 +149,6 @@ Interactive analytics project demonstrating a full data workflow from raw transa
 Based on an e-commerce dataset containing customers, products, transactions, sales, profit, and discount information.
 
 *Project folder:* `Tableau/E-Commerce_Analytics_Dashboard` 
-
----
-
-## Tableau Projects (PYTHON) — Overview
 
 ---
 
