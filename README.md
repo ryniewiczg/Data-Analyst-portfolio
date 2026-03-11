@@ -35,9 +35,16 @@ Each project includes datasets, visualizations, documentation, and the final ana
 ## Microsoft PowerBI Projects (EXCEL) — Overview
 
 ### 1️. **MarketMindz – Market Research Dashboard**  
-Interactive Power BI dashboard analyzing customer trends, product performance, and market patterns.  
-Includes datasets, visuals, full documentation, and the final .pbix report.  
+This project presents an interactive Power BI dashboard designed to analyze customer behavior, product performance, and overall market trends.
+The dashboard helps identify patterns in customer segments and product demand while highlighting key insights that could support data-driven marketing and product decisions.
 
+# Key insights explored 
+- Customer purchasing trends
+- Product performance comparison
+- Market demand patterns
+- Category level insights
+
+Dataset: Custom market research dataset 
 *Project folder:* `PowerBI/MarketMindz_Market Research`
 
 ---
