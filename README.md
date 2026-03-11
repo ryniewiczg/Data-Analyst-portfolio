@@ -166,7 +166,7 @@ The report visualizes accident distribution across regions and highlights enviro
 - Geographic accident density
 
 Dataset: UK road accidents dataset   
-*Project folder:* `Tableau/Road_Accidents_Dashboard`
+*Project folder:* `Tableau/UK_Road_Accidents_Dashboard`
 
 ---
 
