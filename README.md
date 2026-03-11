@@ -26,28 +26,6 @@ The repository includes projects built using **Power BI, Tableau, Excel, SQL, Az
 
 ---
 
-## Tools & Technologies
-
-### Business Intelligence & Data Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard%20Development-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=flat&logo=tableau&logoColor=white)
-
-### Data Analysis
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-
-## Core Skills
-
-- Dashboard Development (**Power BI, Tableau**)
-- Data Analysis (**SQL, Excel**)
-- Data Visualization & KPI Design
-- Data Modeling
-- Business Insights & Reporting
-
----
-
-
 ## Microsoft PowerBI Projects (EXCEL) — Overview
 
 ### 1️. **MarketMindz – Market Research Dashboard**  
