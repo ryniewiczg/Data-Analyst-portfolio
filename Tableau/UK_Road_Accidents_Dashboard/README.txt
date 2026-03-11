@@ -1,50 +1,58 @@
 Road Accidents Dashboard (Tableau)
-Project Overview:
 
-This project presents an interactive Tableau dashboard analyzing road accident data across the United Kingdom.
+An interactive Tableau dashboard analyzing road accident data across the United Kingdom to explore accident patterns, casualty severity, and environmental factors affecting road safety.
 
-The objective was to evaluate accident patterns, casualty severity distribution, and environmental conditions influencing serious road incidents. The dashboard provides a structured analytical overview designed for transportation analysts, public safety teams, and policy planners.
+The dashboard provides insights that could support transport analysts, public safety teams, and policy planners in identifying high-risk conditions and monitoring accident trends.
 
-Business Context:
 
-Road safety analysis is essential for identifying high-risk conditions, monitoring casualty trends, and supporting data-driven policy decisions.
-Government agencies and transport authorities rely on accident data to improve infrastructure planning, implement safety measures, and allocate resources effectively.
-This dashboard simulates an analytical environment where road safety teams monitor accident trends, evaluate environmental risk factors, and identify areas requiring preventive interventions.
+Project Overview
 
-Scope of Analysis
+Road accident data is widely used by transportation authorities to monitor safety conditions and improve infrastructure planning.
 
-The dashboard includes:
+This project analyzes accident records to identify:
+- accident trends over time
+- casualty severity distribution
+- vehicle involvement patterns
+- environmental conditions linked to serious accidents
+- geographic accident distribution across the UK
+
+The final dashboard allows users to explore these patterns through interactive visualizations and filters.
+
+
+Dashboard Features
 - Total accident volume monitoring
 - Casualty severity breakdown (Fatal, Serious, Slight)
-- Year-over-year comparison using dynamic year selection
+- Year-over-year accident comparison
 - Vehicle involvement distribution (Car, Bus, Motorcycle, Heavy Vehicles)
 - Serious casualty analysis by weather conditions
 - Serious casualty analysis by road surface type
 - Road type risk comparison
-- Geographic distribution of accidents across the UK
+- Geographic accident distribution across the UK
 
-Data Preparation:
-- Imported structured accident dataset
-- Cleaned and standardized categorical variables
-- Created calculated fields for year-over-year comparison
-- Aggregated casualty severity metrics
-- Prepared geographic coordinates for map visualization
-- Designed KPI indicators and small trend charts for quick performance monitoring
 
-Key Insights:
+Key Insights
+- Car-related incidents represent the largest share of road accidents.
+- Single carriageway roads account for the majority of serious casualties.
+- Many serious accidents occur during fine weather conditions, suggesting traffic volume plays a larger role than extreme weather.
+- Dry road surfaces dominate accident statistics, reinforcing the impact of traffic density.
+- Accident clusters appear around densely populated regions and major road networks.
 
--Car-related incidents represent the dominant share of road accidents, significantly exceeding other vehicle categories.
--Single carriageway roads account for the majority of serious casualties, highlighting potential infrastructure risk factors.
-- Most serious accidents occur during fine weather conditions, suggesting that accident frequency is driven more by traffic volume than by extreme weather.
-- Dry road surfaces dominate accident statistics, reinforcing the role of traffic density rather than surface hazards.
 
-The geographic distribution map reveals clusters of accidents around densely populated regions and major road networks.
+Data Preparation
+The dataset was prepared before visualization in Tableau.
 
-Tools Used:
+Preparation steps included:
+- cleaning and standardizing categorical variables
+- creating calculated fields for time-based analysis
+- aggregating casualty severity metrics
+- preparing geographic fields for map visualization
 
-Tableau
-Excel dataset
-Calculated fields and KPI metrics
-Geographic visualization (Mapbox)
 
-Time-series trend indicators
+Tools & Technologies
+- Tableau
+- Microsoft Excel
+- Calculated fields and KPI metrics
+- Geographic visualization (Mapbox)
+- Time-series analysis
+
+
