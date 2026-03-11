@@ -1,73 +1,46 @@
-# Retail Sales Analysis – Excel Dashboard Project
+Retail Sales Analysis – Excel Dashboard
 
-A Microsoft Excel dashboard analyzing retail sales performance, trends, and key business metrics.  
-This project demonstrates data cleaning, PivotTable analytics, dashboard design, and insight generation using Excel.
+An interactive Microsoft Excel dashboard analyzing retail sales performance, trends, and key business metrics.
 
----
+The project demonstrates practical skills in data cleaning, PivotTable analysis, and dashboard design, transforming transactional retail data into clear business insights.
 
-## Project Overview
-The **Retail Sales Analysis – Excel Project** explores sales data from the retail industry to identify trends, top products, and regional performance.  
-The dataset (`Sample-Superstore.xlsx`) includes transactional sales information such as dates, regions, categories, and profit.
 
-This Excel dashboard consists of three main analytical areas:
+Project Overview
 
-1. **Sales Trends** – monthly performance and seasonality  
-2. **Regional Insights** – geographic breakdown of sales  
-3. **Product Analysis** – top categories and top 10 best‑selling products  
+The Retail Sales Analysis project explores sales data from the retail industry to identify trends, top-performing products, and regional performance patterns.
 
----
+The dataset (`Sample-Superstore.xlsx`) contains transactional information including order dates, regions, product categories, and profit metrics.
 
-## Dashboard Visuals
+The dashboard focuses on three main analytical areas:
 
-### 1. Dashboard Main Page  
-!(visuals/Dashboard.png)
+1. Sales Trends – monthly performance and seasonality  
+2. Regional Insights – geographic sales distribution  
+3. Product Performance – top categories and best-selling products  
 
----
 
-## Features & Dashboard Components
-KPI cards (Total Sales, Total Profit, Orders Count, Avg Profit)  
-Monthly sales trend line chart  
-Sales by region bar/column chart  
-Top 10 products chart  
-Category and subcategory profit analysis  
-Interactive slicers (Region, Category, Year)  
-Fully dynamic PivotTable‑based dashboard  
+Dashboard Features
+- KPI cards (Total Sales, Total Profit, Orders Count, Average Profit)
+- Monthly sales trend analysis
+- Regional sales comparison
+- Top 10 best-selling products
+- Category and subcategory profit analysis
+- Interactive slicers for Region, Category, and Year
+- Fully dynamic PivotTable-based dashboard
 
----
 
-## Key Business Insights
-- The **West region** has the strongest overall sales.  
-- **Furniture** and **Technology** deliver the highest profit margins.  
-- Noticeable seasonality with strong spikes during holiday months.  
-- Top 10 products form a major share of total revenue.
+Key Business Insights
+- The West region generates the strongest overall sales performance.  
+- Furniture and Technology categories deliver the highest profit margins.  
+- Sales show noticeable seasonality with peaks during holiday periods.  
+- The top 10 products contribute a significant share of total revenue.
 
----
 
-## Tools & Skills Demonstrated
-- **Microsoft Excel**: PivotTables, PivotCharts, Slicers  
-- Data cleaning & formatting  
-- Dashboard design & KPI creation  
-- Business insights & storytelling with data  
+Tools & Skills Demonstrated
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Slicers and interactive filters
+- Data cleaning and preparation
+- Dashboard design and KPI creation
+- Business insights and data storytelling
 
----
-
-## Repository Structure
-- `data/Sample-Superstore.xlsx` – raw dataset  
-- `data/Retail_sales_analysis.xlsx` – cleaned dataset  
-- `/visuals` – dashboard screenshot 
-- `README.md` – project documentation  
-
----
-
-## Next Steps
-- Rebuild dashboard in **Power BI** or **Tableau** for deeper interactivity  
-- Add time‑series forecasting using Excel or Python  
-- Integrate customer‑level data for segmentation insights  
-
----
-
-## Author
-Dashboard developed by **Grzegorz Ryniewicz**  
-LinkedIn: https://www.linkedin.com/in/grzegorz-ryniewicz-922130125/  
-GitHub: https://github.com/rynniewiczg
 
