@@ -1,8 +1,28 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analytics Portfolio — a collection of projects showcasing my skills in **Power BI, Tableau, SQL, data modeling, and data visualization.**
-The repository contains interactive dashboards, analytical reports, and data exploration projects focused on transforming raw data into clear, actionable insights.
-Each project includes datasets, visualizations, documentation, and the final analytical outputs.
+A collection of end-to-end analytics projects focused on **business intelligence, data visualization, and data-driven decision-making**.
+
+The repository includes projects built using **Power BI, Tableau, Excel, SQL, Azure, and Snowflake**, covering business scenarios such as sales analysis, marketing analytics, financial reconciliation, and operational reporting.
+
+---
+
+## Tech Stack
+
+**Business Intelligence**
+- Power BI
+- Tableau
+- Excel
+
+**Data Processing & Querying**
+- SQL
+- Snowflake
+- Azure
+- Power Query
+
+**Analytics & Modeling**
+- DAX
+- Data Modeling
+- Star Schema
 
 ---
 
