@@ -1,99 +1,72 @@
-Central and dispersion metrics - Real estate
+Real Estate Price Analysis – Central & Dispersion Metrics (Excel)
 
-A complete Excel-based analysis of residential property data, focusing on pricing patterns, distribution, outliers, district-level variation, and property characteristics.
+An Excel-based statistical analysis exploring residential property prices, focusing on price distribution, property characteristics, and district-level differences.
+
+The project applies descriptive statistics and visualization techniques to identify pricing patterns, outliers, and key drivers influencing property values.
+
 
 Project Overview
-This project provides statistical and visual analysis of a real estate dataset stored in the CLEAN DATA worksheet (Table1).  
-Objectives:
-1. Price differences across property characteristics  
-2. Impact of garage, condition, and type on price  
-3. Price distribution and dispersion  
-4. Outlier detection (1.5 × IQR rule)  
-5. District-level price-per-sqm patterns  
-6. Summary statistics
+This analysis examines a dataset of residential properties to understand how factors such as property type, condition, and location affect price levels.
 
-Dataset Structure (Table1)
-Key Columns:
-- Total_Price_PLN  
-- Has_Garage  
-- Type  
-- Condition  
-- Monthly_Utilities_PLN  
-- Location  
-- Price_per_sqm  
+The project focuses on:
+- price differences across property characteristics
+- distribution and dispersion of property prices
+- detection of outliers using the 1.5 × IQR rule
+- district-level price-per-square-meter patterns
+- summary statistics for real estate pricing analysis
 
- Part 1 – General Analysis
 
- 1. Garage Impact on Price
-=AVERAGEIF(Table1[Has_Garage], TRUE, Table1[Total_Price_PLN])
-=AVERAGEIF(Table1[Has_Garage], FALSE, Table1[Total_Price_PLN])
+Dataset
+The dataset contains information about residential properties, including:
+- Total_Price_PLN – total property price
+- Price_per_sqm – price per square meter
+- Type – property type (Apartment, House, Studio)
+- Condition – property condition (New, Good, Needs Renovation)
+- Has_Garage – garage availability
+- Monthly_Utilities_PLN – maintenance costs
+- Location – district
 
- 2. Average Price by Property Type
-=AVERAGEIF(Table1[Type], "Apartment", Table1[Total_Price_PLN])
-=AVERAGEIF(Table1[Type], "House", Table1[Total_Price_PLN])
-=AVERAGEIF(Table1[Type], "Studio", Table1[Total_Price_PLN])
 
- 3. Most Frequent Property Condition
-=COUNTIF(Table1[Condition], "New")
-=COUNTIF(Table1[Condition], "Good")
-=COUNTIF(Table1[Condition], "Needs Renovation")
+Analysis Areas
+Property Characteristics
 
- 4. Average Maintenance Cost
-Overall:
-=AVERAGE(Table1[Monthly_Utilities_PLN])
-By Type:
-=AVERAGEIF(Table1[Type], "Apartment", Table1[Monthly_Utilities_PLN])
-=AVERAGEIF(Table1[Type], "House", Table1[Monthly_Utilities_PLN])
-=AVERAGEIF(Table1[Type], "Studio", Table1[Monthly_Utilities_PLN])
+The analysis compares property prices across different characteristics such as:
+- property type
+- building condition
+- presence of a garage
 
- Part 2 – Group Comparison
-=AVERAGEIF(Table1[Type], "<Type>", Table1[Total_Price_PLN])
+Price Distribution
 
-Price Distribution – Total_Price_PLN
+Statistical measures were used to understand the distribution of property prices, including:
+- mean, median, and mode
+- range and standard deviation
+- quartiles and interquartile range (IQR)
 
-Range:
-=MAX(Table1[Total_Price_PLN]) - MIN(Table1[Total_Price_PLN])
+Outlier Detection
+Outliers were identified using the 1.5 × IQR rule, allowing the detection of unusually high or low property prices.
 
-Standard Deviation:
-=STDEV.P(Table1[Total_Price_PLN])
+District-Level Analysis
+Average price per square meter was analyzed across districts to identify location-based price patterns.
 
-Quartiles & IQR:
-Q1 = QUARTILE.INC(Table1[Total_Price_PLN], 1)
-Q3 = QUARTILE.INC(Table1[Total_Price_PLN], 3)
-IQR = Q3 - Q1
+Visualizations
 
-Outliers:
-Lower = Q1 - 1.5*IQR
-Upper = Q3 + 1.5*IQR
+The analysis includes:
+- Histogram showing the distribution of property prices
+- Bar chart comparing property types
+- District-level price comparisons
 
-Histogram
-Select Table1[Total_Price_PLN] → Insert → Statistical Chart → Histogram
 
-Bar Chart – Property Type
-=COUNTIF(Table1[Type], "Apartment")
-=COUNTIF(Table1[Type], "House")
-=COUNTIF(Table1[Type], "Studio")
-
-District-Level Price per m²
-=AVERAGEIF(Table1[Location], "A", Table1[Price_per_sqm])
-=MEDIAN(IF(Table1[Location]="A", Table1[Price_per_sqm]))
-=MODE.SNGL(IF(Table1[Location]="A", Table1[Price_per_sqm]))
-(Repeat for B, C, D)
-
-Statistical Measures Used
-Mean, Median, Mode, Min, Max, Range, Standard Deviation, Variance, Quartiles, IQR, Outliers.
+Key Insights
+- Property prices show significant dispersion, indicating a wide range of market values.
+- Houses generally have higher average prices than apartments and studios.
+- Maintenance costs vary depending on property type.
+- Some districts show noticeably higher price-per-square-meter levels.
+- Outlier detection reveals a small number of unusually priced properties.
 
 Tools & Technologies
-- Microsoft Excel  
-- Statistical functions  
-- Visualizations (histogram, bar chart)  
-- Excel Tables  
+- Microsoft Excel
+- Descriptive statistics
+- Excel tables and formulas
+- Histogram and bar chart visualizations
 
-Summary
-This project reveals:
-- High price dispersion  
-- Differences between property types  
-- Variation in maintenance costs  
-- District-level price differences  
-- Presence of outliers  
-All analysis was performed in Excel.
+
