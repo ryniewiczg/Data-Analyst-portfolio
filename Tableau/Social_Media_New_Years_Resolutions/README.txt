@@ -1,47 +1,54 @@
 Social Media Analytics – New Year’s Resolutions (Tableau)
 
-Project Overview:
+An interactive Tableau dashboard analyzing social media activity related to New Year’s resolutions.
 
-This project presents an interactive Tableau dashboard analyzing social media activity related to New Year’s resolutions.
-The objective was to explore behavioral patterns in tweet activity, identify dominant resolution categories, and analyze temporal and geographic trends using structured data visualization techniques.
-The dashboard was built using a CSV dataset containing tweet metadata, timestamps, categories, and user information.
+The project explores tweet activity patterns, dominant resolution categories, and geographic engagement trends using structured data visualization.
 
-Business Context:
 
-Understanding social media trends can help organizations identify behavioral patterns, seasonal engagement peaks, and dominant interest areas.
-This analysis simulates a scenario where marketing or strategy teams want to understand what topics resonate most with users during the New Year period.
+Project Overview
 
-Scope of Analysis:
+Social media platforms generate large volumes of user-generated content during the New Year period, reflecting personal goals and behavioral trends.
 
-The dashboard includes:
-- Total tweets overview and high-level KPI summary
-- Category distribution and ranking
+This project analyzes tweet data to identify:
+- the most common resolution categories
+- patterns in tweet activity across different hours
+- geographic distribution of social media engagement
+- overall trends in New Year–related discussions
+
+The final dashboard allows users to interactively explore these patterns through filters and visual analytics.
+
+
+Dashboard Features
+- Total tweet volume overview
+- Resolution category distribution and ranking
 - Hourly tweet activity trends
-- Time-based pattern analysis
-- Geographic distribution across U.S. states
-- Category filtering for deeper exploration
+- Time-based engagement analysis
+- Geographic tweet distribution across U.S. states
+- Category filters for deeper exploration
 
-Data Preparation:
 
-- Imported and structured raw CSV dataset
-- Cleaned and standardized categorical values
-- Created calculated fields for time-based analysis (hour extraction, trend breakdown)
-- Built aggregated metrics for category and regional comparisons
-- Designed layout for clear storytelling and user-driven exploration
+Key Insights
+- Personal Growth was the most dominant resolution category.
+- Tweet activity peaks during the morning hours (8–12).
+- Some states show noticeably higher tweet concentrations.
+- Health & Fitness and Humor categories show consistent mid-level engagement.
+- Niche categories such as Philanthropic or Time Management appear less frequently.
 
-Key Insights:
 
-Personal Growth was the most dominant resolution category, significantly outperforming other topics.
-Tweet activity peaked in the morning hours (around 8–12), suggesting higher engagement during early-day reflection periods.
-Certain states showed noticeably higher tweet concentrations, indicating regional differences in social media engagement.
-Health & Fitness and Humor categories showed consistent mid-level engagement, while niche categories such as Philanthropic or Time Management had lower activity.
+Data Preparation
+The dataset was prepared using a structured CSV file containing tweet metadata.
 
-These findings demonstrate how structured visualization can transform raw social media data into interpretable behavioral insights.
+Preparation steps included:
+- cleaning and standardizing category values
+- creating calculated fields for time-based analysis
+- building aggregated metrics for category comparisons
 
-Tools Used:
 
+Tools & Technologies
 - Tableau
 - CSV dataset
-Calculated fields and time-based analysis
+- Calculated fields
+- Time-based analysis
+- Data visualization best practices
 
-Data visualization best practices
+
