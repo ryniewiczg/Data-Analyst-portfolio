@@ -1,81 +1,76 @@
-# HR Analytics Dashboard (Snowflake + Tableau)
+HR Analytics Dashboard (Snowflake + Tableau)
 
-This project demonstrates an end-to-end analytics workflow using Snowflake as the data warehouse and Tableau for data visualization.
+An end-to-end analytics project combining Snowflake as the data warehouse and Tableau for interactive visualization.
 
-The goal of the project was to simulate a real-world analytics pipeline: ingesting raw data, modeling it in a warehouse, preparing analytical views, and building an interactive dashboard for business insights.
+The project simulates a modern analytics workflow: ingesting raw HR data, modeling it in a warehouse, preparing analytical views using SQL, and building a business dashboard for performance monitoring.
 
-## Project Overview
 
-The project analyzes HR operational data including employee performance, transactions, profit, and departmental activity.
+Project Overview
+The dashboard analyzes HR operational data including employee activity, departmental performance, and financial contribution metrics.
 
-The final Tableau dashboard allows users to explore:
-
+The analysis focuses on:
 - HR transaction trends over time
-- Profit contribution by job role
-- Department-level performance
-- Top performing employees
-- Key business KPIs (Revenue, Profit, Transactions)
+- department-level performance comparison
+- profit contribution by job role
+- identification of top-performing employees
+- monitoring key operational KPIs
 
-Users can dynamically filter the dashboard by department to analyze performance across different teams.
+The final Tableau dashboard allows users to interactively explore HR performance using department-level filters.
 
-## Data Warehouse (Snowflake)
-
-The data pipeline was built in Snowflake to simulate a modern analytics architecture.
+Data Warehouse (Snowflake)
+The data pipeline was implemented in Snowflake to simulate a modern analytics architecture.
 
 Key steps included:
+- creating database and schema structures
+- importing raw CSV datasets into Snowflake tables
+- validating and cleaning data using SQL
+- designing a star schema data model
+- creating analytical views optimized for BI tools
 
-- Creating database and schema
-- Ingesting CSV datasets into Snowflake tables
-- Designing a **star schema** for analytics
-- Creating fact and dimension tables
-- Validating data with SQL queries
-- Building analytical views optimized for BI tools
 
-### Data Model
+Data Model
+The warehouse follows a simplified star schema design.
 
-The warehouse follows a simplified **star schema**:
-
-Fact tables:
+Fact Tables
 - HR Transactions
-- Revenue / Profit metrics
+- Revenue / Profit Metrics
 
-Dimension tables:
+Dimension Tables
 - Employees
 - Departments
 - Job Roles
 - Date
 
-This structure allows efficient analytical queries and dashboard performance.
+This structure supports efficient analytical queries and improves dashboard performance.
 
-## Tableau Dashboard
 
-The final dashboard was built in Tableau using the Snowflake analytical views.
+Tableau Dashboard
+The final dashboard was built in Tableau using Snowflake analytical views.
 
-Key features:
 
-- KPI cards for Revenue, Profit, and Transactions
+Dashboard Features
+- KPI cards (Revenue, Profit, Transactions)
 - HR transaction trend analysis
 - Profit distribution by job role
 - Department performance comparison
-- Top employees by profit
-- Interactive department filtering
-- Highlighted department performance in trend charts
+- Top employees by profit contribution
+- Interactive department filters
+- Highlighted department performance trends
 
-## Technologies Used
 
+Key Insights
+- Some departments contribute significantly more to overall profit than others.
+- Transaction activity varies across departments and job roles.
+- A small number of employees generate a large share of revenue contribution.
+- Trend analysis reveals fluctuations in HR activity over time.
+
+
+Tools & Technologies
 - Snowflake
 - SQL
 - Tableau
 - Data Modeling (Star Schema)
-- CSV Data Ingestion
+- Data Warehouse Design
+- BI Dashboard Development
 
-
-## Key Skills Demonstrated
-
-- Data warehouse design
-- SQL data modeling
-- Star schema implementation
-- Analytical view creation
-- BI dashboard development
-- Interactive data visualization
 
