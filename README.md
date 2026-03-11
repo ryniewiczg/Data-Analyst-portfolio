@@ -123,30 +123,49 @@ It highlights regional performance differences, tracks VIP customer activity, an
 
 ### 1. Social Media Analytics – New Year’s Resolutions Dashboard
 
-Interactive Tableau dashboard analyzing social media tweets related to New Year’s resolutions. The dashboard explores tweet frequency over time, hourly activity patterns, category distribution, and geographic trends.
+This Tableau dashboard analyzes social media activity related to New Year’s resolutions.  
+It explores how tweet volume changes over time and highlights patterns in user engagement, activity hours, and popular resolution categories.
+The report also examines geographic trends to understand where conversations around New Year’s resolutions are most active.
 
-Based on a CSV dataset containing tweet metadata, categories, timestamps, and user information.
+**Key insights**
+- Tweet activity trends over time
+- Hourly engagement patterns
+- Distribution of resolution categories
+- Geographic trends in social media activity
 
+Dataset: CSV file containing tweet metadata, timestamps, and category information      
 *Project folder:* `Tableau/Social_Media_New_Years_Resolutions`
 
 ---
 
 ### 2. Credit Card Complaints Dashboard
 
-Interactive Tableau dashboard analyzing credit card complaint data, focusing on complaint trends, response performance, issue categories, and geographic density.
-The dashboard provides KPI monitoring, time-series analysis, daily activity heatmaps, and regional complaint distribution.
+This project analyzes credit card complaint data to identify trends in customer issues, response performance, and complaint distribution.
+The dashboard tracks complaint activity over time and highlights which issue categories and regions generate the highest number of reports.
 
-Based on an Excel dataset containing complaint records, issue types, timestamps, and response status information.
+**Key insights**
+- Complaint volume trends over time
+- Distribution of complaint categories
+- Response performance analysis
+- Regional complaint density
 
+Dataset: Excel dataset containing complaint records and response information    
 *Project folder:* `Tableau/Credit_Card_Complaints_Dashboard`
 
 ---
 
 ### 3. Road Accidents Dashboard
 
-Interactive Tableau dashboard analyzing UK road accident data, focusing on casualty severity, road conditions, vehicle involvement, and geographic distribution.
-The dashboard includes KPI monitoring, environmental condition analysis, road type risk comparison, and accident density mapping to simulate transportation safety analytics.
+This Tableau dashboard explores road accident data in the United Kingdom to understand patterns related to accident severity, road conditions, and vehicle involvement.
+The report visualizes accident distribution across regions and highlights environmental and road-related factors that may influence accident risk.
 
+**Key insights**
+- Accident severity distribution
+- Impact of road and environmental conditions
+- Vehicle involvement patterns
+- Geographic accident density
+
+Dataset: UK road accidents dataset   
 *Project folder:* `Tableau/Road_Accidents_Dashboard`
 
 ---
