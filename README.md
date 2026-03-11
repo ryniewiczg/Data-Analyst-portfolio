@@ -17,6 +17,7 @@ The repository includes projects built using **Power BI, Tableau, Excel, SQL, Az
 - SQL
 - Snowflake
 - Azure
+- BigQuery
 - Power Query
 
 **Analytics & Modeling**
