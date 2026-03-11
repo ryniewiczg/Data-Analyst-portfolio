@@ -115,7 +115,7 @@ It highlights regional performance differences, tracks VIP customer activity, an
 
 ---
 
-## Microsoft PowerBI Projects (SQL AZURE) — Overview
+## Microsoft PowerBI Projects (AZURE) — Overview
 
 ---
 
@@ -174,11 +174,17 @@ Dataset: UK road accidents dataset
 
 ### 1. HR Analytics Dashboard
 
-Interactive analytics project demonstrating a full data workflow from raw data ingestion in Snowflake to an interactive Tableau dashboard.
-The project includes data modeling with a star schema, SQL-based analytical views, and a dashboard analyzing HR transactions, employee performance, departmental profitability, and key business KPIs.
+This project demonstrates an end-to-end analytics workflow, from data storage in Snowflake to visualization in Tableau.  
+The dashboard analyzes employee performance, HR transactions, and departmental metrics to support HR and business decision-making.
+It highlights workforce trends, performance indicators, and departmental contributions to overall business performance.
 
-Based on a dataset containing HR transaction records, employee data, job roles, departmental information, and revenue/profit metrics.
+**Key insights**
+- Employee performance and productivity trends
+- Department-level performance comparison
+- HR transaction activity over time
+- Key HR business KPIs
 
+Dataset: HR dataset containing employee records, job roles, departmental data, and performance metrics    
 *Project folder:* `Tableau/HR_Analytics_Snowflake_Dashboard`
 
 ---
@@ -187,10 +193,17 @@ Based on a dataset containing HR transaction records, employee data, job roles, 
 
 ### 1. Shopnest Sales Analytics Dashboard
 
-Interactive analytics project demonstrating a full data workflow from raw transactional data stored in <u>MySQL</u> to an interactive Tableau dashboard. The project includes data preparation using <u>MySQL / SQL queries</u> and a dashboard analyzing sales performance, customer profitability, product categories, and key business KPIs.
+This project analyzes e-commerce sales data stored in a MySQL database and visualized using Tableau.  
+The dashboard explores sales performance, customer purchasing behavior, and product category trends.
+The report helps identify high-performing products, profitable customer segments, and overall revenue patterns.
 
-Based on an e-commerce dataset containing customers, products, transactions, sales, profit, and discount information.
+**Key insights**
+- Sales and profit trends over time
+- Customer profitability analysis
+- Product category performance
+- Key e-commerce KPIs
 
+Dataset: E-commerce dataset containing customers, products, transactions, sales, and profit data  
 *Project folder:* `Tableau/E-Commerce_Analytics_Dashboard` 
 
 ---
