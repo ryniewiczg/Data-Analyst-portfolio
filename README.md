@@ -112,6 +112,19 @@ It highlights regional performance differences, tracks VIP customer activity, an
 
 ## Microsoft PowerBI Projects (AZURE) — Overview
 
+### 1. Insigh BI – Fashion Brand Analytics Dashboard
+
+This project demonstrates a business intelligence workflow where fashion retail data was first cleaned and structured in Azure SQL before being visualized in Power BI. The dashboard analyzes brand performance, pricing strategies, discount levels, and product variety to highlight differences in brand positioning and profitability.
+
+**Key insights explored:** 
+- Brand discount strategy comparison
+- Profit margin differences across brands
+- Product variety distribution by brand
+- Average sales price comparison
+- 
+Dataset: Fashion retail product dataset processed in Azure SQL
+*Project folder:* `PowerBI/InsighBI_Fashion_Brand_Analytics`
+
 ---
 
 ## Tableau Projects (EXCEL) — Overview
