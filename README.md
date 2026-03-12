@@ -121,7 +121,7 @@ This project demonstrates a business intelligence workflow where fashion retail 
 - Profit margin differences across brands
 - Product variety distribution by brand
 - Average sales price comparison
-- 
+
 Dataset: Fashion retail product dataset processed in Azure SQL
 *Project folder:* `PowerBI/InsighBI_Fashion_Brand_Analytics`
 
