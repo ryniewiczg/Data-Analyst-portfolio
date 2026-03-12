@@ -123,7 +123,7 @@ This project demonstrates a business intelligence workflow where fashion retail 
 - Average sales price comparison
 
 Dataset: Fashion retail product dataset processed in Azure SQL  
-*Project folder:* `PowerBI/InsighBI_Fashion_Brand_Analytics`
+*Project folder:* `PowerBI/Azure_SQL_PowerBI_Dashboard`
 
 ---
 
