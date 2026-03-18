@@ -178,6 +178,24 @@ Dataset: UK road accidents dataset
 
 ---
 
+### 4. Tennis Analytics – Performance Dashboard
+
+This Tableau dashboard analyzes professional tennis player performance across tournaments, surfaces, and career achievements.
+It explores how success varies by surface type and highlights patterns in titles, finals performance, and prize money.
+The report also examines geographic distribution to understand where top players originate from.
+
+**Key insights**
+- Distribution of wins across different surfaces
+- Grand Slam performance comparison
+- Relationship between titles and career prize money
+- Finals performance (wins vs losses)
+- Geographic trends in player origins
+
+Dataset: CSV file containing player statistics, tournament results, and career metrics
+*Project folder:* `Tableau/Tennis_Tournaments_Dashboard`
+
+---
+
 ## Tableau Projects (SNOWFLAKE) — Overview
 
 ### 1. HR Analytics Dashboard
