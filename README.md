@@ -88,7 +88,7 @@ The report compares spending patterns across Belgium, the United Kingdom, and th
 - Country-level cost comparison
 - Identification of high-cost areas
 
-Dataset: Pharmaceutical asset and spend dataset      
+Dataset: Pharmaceutical asset and spend dataset             
 *Project folder:* `PowerBI/Pharma_Asset_Spend_Analysis`
 
 ---
