@@ -101,7 +101,7 @@ This project analyzes sales performance for an electronics retailer across regio
 The dashboard provides a clear overview of revenue trends, sales performance, and customer behavior over a two-year period.
 It highlights regional performance differences, tracks VIP customer activity, and examines how warranty length influences purchasing patterns.
 
-**Key insights:**
+**Key insights explored:**
 - Monthly revenue and total sales trends (2-year view)
 - Rolling 30-day KPIs (average transaction value, sales volume)
 - Regional performance comparison (East, North, South, West)
@@ -109,6 +109,24 @@ It highlights regional performance differences, tracks VIP customer activity, an
 - VIP customer sales tracking over time
 
 *Project folder:* `PowerBI/Electronics_Shop_Sales_Analysis`
+
+---
+
+### 6. Airline Delay Dashboard
+
+This project presents an interactive Power BI dashboard focused on analyzing airline delays across U.S. airports and carriers. It explores operational performance, delay trends, airport comparisons, and the main causes of disruptions such as carrier issues, weather conditions, NAS congestion, and late aircraft arrivals.
+
+The dashboard includes multiple report pages with dynamic filtering, drill-down analysis, and a landing page navigation experience designed to simulate a business-ready BI application.
+
+**Key insights explored:**
+
+- Overall flight delay performance and trends over time
+- Airport-level delay comparisons
+- Breakdown of delay causes
+- Carrier performance analysis
+- Operational bottlenecks across the network
+
+*Project folder:* `PowerBI/Airline Delay Dashboard`
 
 ---
 
