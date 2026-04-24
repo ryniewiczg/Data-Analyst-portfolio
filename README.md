@@ -11,19 +11,21 @@ The repository includes projects built using **Power BI, Tableau, Excel, SQL, Az
 **Business Intelligence**
 - Power BI
 - Tableau
+- SAP ERP
 - Excel
 
 **Data Processing & Querying**
 - SQL
-- Snowflake
-- Azure
 - BigQuery
 - Power Query
+- ETL Processes
+- Data Cleaning
 
 **Analytics & Modeling**
 - DAX
 - Data Modeling
 - Star Schema
+- KPI Design
 
 ---
 
