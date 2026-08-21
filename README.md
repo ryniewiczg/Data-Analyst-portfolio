@@ -18,6 +18,8 @@ The repository includes projects built using **Power BI, Tableau, Excel, SQL, Az
 - SQL
 - BigQuery
 - Power Query
+- Databricks
+- Lakeflow
 - ETL Processes
 - Data Cleaning
 
