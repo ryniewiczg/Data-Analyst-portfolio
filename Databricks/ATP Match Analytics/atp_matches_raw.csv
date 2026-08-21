@@ -1,0 +1,47 @@
+match_id,Tournament,SURFACE,match date,Player 1,player_2,Winner,score,duration_min,prize_usd,Rounds
+M001,Australian Open,Hard,1/19/2025,Jannik Sinner,Alexander Zverev,Jannik Sinner,6-3 7-6 6-3,158,"$3,500,000 ",Final
+M002,Australian Open,hard,1/17/2025,Novak Djokovic,Carlos Alcaraz,Novak Djokovic,4-6 6-4 6-3 6-4,222,"$1,900,000 ",Semi-Final
+M003,Australian Open,HARD ,1/17/2025,Ben Shelton,Jannik Sinner,Jannik Sinner,7-6 6-2 6-2,2h 01m,1900000,Semi-Final
+M004,Australian Open,Hard,1/15/2025,Tommy Paul,Alexander Zverev,Alexander Zverev,7-6 7-6 6-2,175,"$1,100,000 ",Quarter-Final
+M005,Rotterdam Open,Hard,06.02.2025,Carlos Alcaraz,Alex de Minaur,Carlos Alcaraz,6-4 3-6 6-2,,€450 000,Final
+M006,Rotterdam Open,hard,04.02.2025,Hubert Hurkacz ,Daniil Medvedev,Hubert Hurkacz,7-5 6-4,112,"€240,000",Semi-Final
+M007,Indian Wells,Hard,3/16/2025,Jack Draper,Holger Rune,Jack Draper,6-2 6-2,88,"$1,200,000 ",Final
+M008,Indian Wells,Hard,3/15/2025,Daniil Medvedev,Holger Rune,Holger Rune,6-3 7-5,#N/A,"$650,000 ",Semi-Final
+M009,Indian Wells,Hard,3/14/2025,Jack Draper,Ben Shelton,Jack Draper,6-4 6-4,101,650000,Semi-Final
+M010,Miami Open,Hard,3/30/2025,Jakub Mensik,Novak Djokovic,Jakub Mensik,7-6 7-6,124,"$1,100,000 ",Final
+M011,Miami Open,Hard,3/28/2025,Novak Djokovic,Grigor Dimitrov,Novak Djokovic,6-2 6-3,79,"$600,000 ",Semi-Final
+M012,Monte-Carlo Masters,Clay,4/13/2025,Carlos Alcaraz,Lorenzo Musetti,Carlos Alcaraz,3-6 6-1 6-0,140,"€950,000",Final
+M013,Monte-Carlo Masters,clay,4/12/2025,Alejandro Davidovich Fokina,Lorenzo Musetti,Lorenzo Musetti,6-4 7-5,131,"€500,000",Semi-Final
+M014,Monte-Carlo Masters,CLAY,4/12/2025,Carlos Alcaraz,Alex de Minaur,Carlos Alcaraz,6-4 6-4,105,500000,Semi-Final
+M015,Barcelona Open,Clay,4/20/2025,Holger Rune,Carlos Alcaraz,Holger Rune,7-6 6-2,,"€420,000",Final
+M016,Madrid Open,Clay,5/4/2025,Casper Ruud,Jack Draper,Casper Ruud,7-5 3-6 6-4,168,"€1,000,000",Final
+M017,Madrid Open,Clay,5/2/2025,Jack Draper,Lorenzo Musetti,Jack Draper,6-3 7-6,118,"€520,000",Semi-Final
+M018,Madrid Open,clay,02.05.2025,Casper Ruud,Francisco Cerundolo,Casper Ruud,4-6 7-5 6-3,TBC,"€520,000",Semi-Final
+M019,Italian Open,Clay,5/18/2025,Jannik Sinner,Carlos Alcaraz,Carlos Alcaraz,7-6 6-1,146,"€1,100,000",Final
+M020,Italian Open,Clay,5/16/2025,Jannik Sinner,Tommy Paul,Jannik Sinner,1-0 ret.,17,"€570,000",Semi-Final
+M021,Italian Open,Clay,5/16/2025,Carlos Alcaraz,Lorenzo Musetti,Carlos Alcaraz,6-3 7-6,132,570000,Semi-Final
+M022,Roland Garros,Clay,6/8/2025,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,4-6 6-7 6-4 7-6 7-6,5h 29m,"€2,550,000",Final
+M023,Roland Garros,Clay,06.06.2025,Jannik Sinner,Novak Djokovic,Jannik Sinner,6-4 7-5 7-6,175,"€1,275,000",Semi-Final
+M024,Roland Garros,clay,6/6/2025,Carlos Alcaraz,Lorenzo Musetti,Carlos Alcaraz,6-4 7-6 6-0,,1275000,Semi-Final
+M025,Roland Garros,Clay,6/4/2025,Novak Djokovic,Alexander Zverev,Novak Djokovic,4-6 6-3 6-2 6-4,201,"€700,000",Quarter-Final
+M026,Queen's Club,Grass,6/22/2025,Jiri Lehecka,Carlos Alcaraz,Carlos Alcaraz,7-5 6-7 6-2,161,"£280,000",Final
+M027,Queen's Club,grass,6/21/2025,Jack Draper,Jiri Lehecka,Jiri Lehecka,6-4 4-6 7-5,,"£150,000",Semi-Final
+M028,Halle Open,Grass,6/22/2025,Alexander Bublik,Daniil Medvedev,Alexander Bublik,6-3 7-6,96,"€330,000",Final
+M029,Wimbledon,Grass,7/13/2025,Jannik Sinner,Carlos Alcaraz,Jannik Sinner,4-6 6-4 6-4 6-4,190,"£3,000,000",Final
+M030,Wimbledon,Grass,11.07.2025,Jannik Sinner,Novak Djokovic,Jannik Sinner,6-3 6-3 6-4,148,"£1,520,000",Semi-Final
+M031,Wimbledon,grass ,7/11/2025,Carlos Alcaraz,Taylor Fritz,Carlos Alcaraz,6-4 5-7 6-3 7-6,195,1520000,Semi-Final
+M032,Wimbledon,Grass,7/9/2025,Taylor Fritz,Karen Khachanov,Taylor Fritz,6-3 6-4 1-6 7-6,#N/A,"£775,000",Quarter-Final
+M033,Canadian Open,Hard,8/7/2025,Ben Shelton,Karen Khachanov,Ben Shelton,6-7 6-4 7-6,171,"$1,120,000 ",Final
+M034,Cincinnati Open,Hard,8/18/2025,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,5-0 ret.,23,"$1,120,000 ",Final
+M035,Cincinnati Open,hard,16.08.2025,Carlos Alcaraz,Alexander Zverev,Carlos Alcaraz,6-4 6-3,,"$620,000 ",Semi-Final
+M036,US Open,Hard,9/7/2025,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,6-2 3-6 6-1 6-4,162,"$5,000,000 ",Final
+M037,US Open,Hard,9/5/2025,Carlos Alcaraz,Novak Djokovic,Carlos Alcaraz,6-4 7-6 6-2,164,"$2,500,000 ",Semi-Final
+M038,US Open,hard,05.09.2025,Jannik Sinner,Felix Auger-Aliassime,Jannik Sinner,6-1 3-6 6-3 6-4,,2500000,Semi-Final
+M039,US Open,Hard,9/3/2025,Novak Djokovic,Taylor Fritz,Novak Djokovic,6-3 7-5 3-6 6-4,208,"$1,260,000 ",Quarter-Final
+M040,ATP Finals,Hard,11/16/2025,Jannik Sinner,Carlos Alcaraz,Jannik Sinner,7-6 7-5,,"$2,460,000 ",Final
+M040,ATP Finals,Hard,11/16/2025,Jannik Sinner,Carlos Alcaraz,Jannik Sinner,7-6 7-5,132,"$2,460,000 ",Final
+M041,ATP Finals,hard,11/15/2025,Carlos Alcaraz,Felix Auger-Aliassime,Carlos Alcaraz,6-2 6-4,94,"$1,090,000 ",Semi-Final
+M042,ATP Finals,Hard,11/15/2025,Jannik Sinner,Alexander Zverev,Jannik Sinner,6-4 6-3,,#N/A,Semi-Final
+M043,Vienna Open,Hard,10/26/2025,Jannik Sinner,Alexander Zverev,Jannik Sinner,3-6 6-3 7-5,,"€430,000",Final
+M044,Paris Masters,Hard,11/2/2025,Jannik Sinner,Felix Auger-Aliassime,Jannik Sinner,6-4 7-6,,"€980,000",Final
+M045,Shanghai Masters,Hard,10/12/2025,Valentin Vacherot,Arthur Rinderknech,Valentin Vacherot,4-6 6-3 6-3,151,"$1,120,000 ",Final
