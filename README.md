@@ -316,7 +316,7 @@ Statistical analysis of employee data focused on salary distribution, experience
 
 ## Databricks Projects (SQL) — Overview
 
-### 1️. *ATP Match Analytics — Lakehouse Pipeline**  
+### 1️. ATP Match Analytics — Lakehouse Pipeline 
 This project builds an end-to-end data pipeline on Databricks using the Bronze/Silver/Gold (Medallion) architecture, taking a deliberately messy source file through cleaning and aggregation into a set of reporting views and a dashboard. 
 The pipeline was built twice — once as a standard SQL notebook and once as a Lakeflow Declarative Pipeline — to compare the twoapproaches.
 **Key techniques explored:**
